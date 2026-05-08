@@ -71,387 +71,702 @@
   },
   {
     "id": 11,
+    "name": "خيتافي",
+    "name_en": "Getafe",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Getafe_CF_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 12,
+    "name": "أوساسونا",
+    "name_en": "Osasuna",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/CA_Osasuna_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 13,
+    "name": "إسبانيول",
+    "name_en": "Espanyol",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/RCD_Espanyol_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 14,
+    "name": "رايو فايكانو",
+    "name_en": "Rayo Vallecano",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Rayo_Vallecano_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 15,
+    "name": "غرناطة",
+    "name_en": "Granada",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/Granada_CF_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 16,
     "name": "مانشستر سيتي",
     "name_en": "Manchester City",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 12,
+    "id": 17,
     "name": "مانشستر يونايتد",
     "name_en": "Manchester United",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 13,
+    "id": 18,
     "name": "ليفربول",
     "name_en": "Liverpool",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 14,
+    "id": 19,
     "name": "تشيلسي",
     "name_en": "Chelsea",
     "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 15,
+    "id": 20,
     "name": "آرسنال",
     "name_en": "Arsenal",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 16,
+    "id": 21,
     "name": "توتنهام هوتسبير",
     "name_en": "Tottenham Hotspur",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 17,
+    "id": 22,
     "name": "نيوكاسل يونايتد",
     "name_en": "Newcastle United",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 18,
+    "id": 23,
     "name": "أستون فيلا",
     "name_en": "Aston Villa",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/9a/Aston_Villa_FC_crest.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 19,
+    "id": 24,
     "name": "وست هام يونايتد",
     "name_en": "West Ham United",
     "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 20,
+    "id": 25,
     "name": "ليستر سيتي",
     "name_en": "Leicester City",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/Leicester_City_crest.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 21,
+    "id": 26,
+    "name": "برايتون",
+    "name_en": "Brighton",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 27,
+    "name": "برينتفورد",
+    "name_en": "Brentford",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8a/Brentford_FC_crest.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 28,
+    "name": "فولهام",
+    "name_en": "Fulham",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 29,
+    "name": " كريستال بالاس",
+    "name_en": "Crystal Palace",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Crystal_Palace_FC_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 30,
+    "name": "وولفرهامبتون",
+    "name_en": "Wolverhampton",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 31,
     "name": "باريس سان جيرمان",
     "name_en": "Paris Saint-Germain",
     "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
     "country": "فرنسا"
   },
   {
-    "id": 22,
+    "id": 32,
     "name": "مارسيليا",
     "name_en": "Marseille",
     "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Olympique_de_Marseille_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 23,
+    "id": 33,
     "name": "ليون",
     "name_en": "Lyon",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Olympique_Lyonnais_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 24,
+    "id": 34,
     "name": "موناكو",
     "name_en": "Monaco",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/AS_Monaco_FC.svg",
     "country": "فرنسا"
   },
   {
-    "id": 25,
+    "id": 35,
     "name": "ليل",
     "name_en": "Lille",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Lille_OSC_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 26,
+    "id": 36,
     "name": "رين",
     "name_en": "Rennes",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/62/Stade_Rennais_FC_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 27,
+    "id": 37,
     "name": "نيس",
     "name_en": "Nice",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/OGC_Nice_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 28,
+    "id": 38,
     "name": "لانس",
     "name_en": "Lens",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/99/RC_Lens_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 29,
+    "id": 39,
     "name": "بوردو",
     "name_en": "Bordeaux",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/FC_Girondins_de_Bordeaux_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 30,
+    "id": 40,
     "name": "سانت إتيان",
     "name_en": "Saint-Etienne",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/9b/AS_Saint-%C3%89tienne_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 31,
-    "name": "الأهلي المصري",
+    "id": 41,
+    "name": "ستراسبورغ",
+    "name_en": "Strasbourg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/cd/RC_Strasbourg_Alsace_logo.svg",
+    "country": "فرنسا"
+  },
+  {
+    "id": 42,
+    "name": "مونبلييه",
+    "name_en": "Montpellier",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Montpellier_HSC_logo.svg",
+    "country": "فرنسا"
+  },
+  {
+    "id": 43,
+    "name": "نانت",
+    "name_en": "Nantes",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a1/FC_Nantes_logo.svg",
+    "country": "فرنسا"
+  },
+  {
+    "id": 44,
+    "name": "ستاد ريمس",
+    "name_en": "Stade Reims",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5e/Stade_de_Reims_logo.svg",
+    "country": "فرنسا"
+  },
+  {
+    "id": 45,
+    "name": "برست",
+    "name_en": "Brest",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5b/Stade_Brestois_29_logo.svg",
+    "country": "فرنسا"
+  },
+  {
+    "id": 46,
+    "name": "الأهلي",
     "name_en": "Al Ahly",
     "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Al_Ahly_SC_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 32,
+    "id": 47,
     "name": "الزمالك",
     "name_en": "Zamalek",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/34/Zamalek_SC_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 33,
+    "id": 48,
     "name": "بيراميدز",
     "name_en": "Pyramids FC",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/Pyramids_FC_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 34,
+    "id": 49,
     "name": "النادي المصري",
     "name_en": "Al Masry",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Al-Masry_SC_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 35,
+    "id": 50,
     "name": "الإسماعيلي",
     "name_en": "Ismaily",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/6b/Ismaily_SC_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 36,
+    "id": 51,
     "name": "إنبي",
     "name_en": "Enppi",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/ENPPI_Club_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 37,
+    "id": 52,
     "name": "سموحة",
     "name_en": "Smouha",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Smouha_SC_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 38,
+    "id": 53,
     "name": "الاتحاد السكندري",
     "name_en": "Al Ittihad Alexandria",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Al_Ittihad_Alexandria_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 39,
+    "id": 54,
     "name": "المقاولون العرب",
     "name_en": "Arab Contractors",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Al_Mokawloon_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 40,
+    "id": 55,
     "name": "طلائع الجيش",
     "name_en": "Tala'ea El Gaish",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/Tala%27ea_El_Gaish_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 41,
+    "id": 56,
+    "name": "سيراميكا كليوباترا",
+    "name_en": "Ceramica Cleopatra",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/55/Ceramica_Cleopatra_FC_logo.svg",
+    "country": "مصر"
+  },
+  {
+    "id": 57,
+    "name": "فيوتشر",
+    "name_en": "Future FC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Future_FC_logo.svg",
+    "country": "مصر"
+  },
+  {
+    "id": 58,
+    "name": "البنك الأهلي",
+    "name_en": "National Bank",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/National_Bank_FC_logo.svg",
+    "country": "مصر"
+  },
+  {
+    "id": 59,
+    "name": "فاركو",
+    "name_en": "Farco",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/48/Farco_FC_logo.svg",
+    "country": "مصر"
+  },
+  {
+    "id": 60,
+    "name": "الداخلية",
+    "name_en": "El Dakhleya",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/El_Dakhleya_SC_logo.svg",
+    "country": "مصر"
+  },
+  {
+    "id": 61,
     "name": "منتخب البرازيل",
-    "name_en": "Brazil National Team",
+    "name_en": "Brazil",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Brazil_national_football_team_logo.svg",
     "country": "البرازيل"
   },
   {
-    "id": 42,
+    "id": 62,
     "name": "منتخب الأرجنتين",
-    "name_en": "Argentina National Team",
+    "name_en": "Argentina",
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/1c/Argentina_national_football_team_logo.svg",
     "country": "الأرجنتين"
   },
   {
-    "id": 43,
+    "id": 63,
     "name": "منتخب فرنسا",
-    "name_en": "France National Team",
+    "name_en": "France",
     "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/France_national_football_team_logo.svg",
     "country": "فرنسا"
   },
   {
-    "id": 44,
+    "id": 64,
     "name": "منتخب ألمانيا",
-    "name_en": "Germany National Team",
+    "name_en": "Germany",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Germany_national_football_team_logo.svg",
     "country": "ألمانيا"
   },
   {
-    "id": 45,
+    "id": 65,
     "name": "منتخب إنجلترا",
-    "name_en": "England National Team",
+    "name_en": "England",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/England_national_football_team_logo.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 46,
+    "id": 66,
     "name": "منتخب إسبانيا",
-    "name_en": "Spain National Team",
+    "name_en": "Spain",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Spain_national_football_team_logo.svg",
     "country": "إسبانيا"
   },
   {
-    "id": 47,
+    "id": 67,
     "name": "منتخب إيطاليا",
-    "name_en": "Italy National Team",
+    "name_en": "Italy",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Italy_national_football_team_logo.svg",
     "country": "إيطاليا"
   },
   {
-    "id": 48,
+    "id": 68,
     "name": "منتخب هولندا",
-    "name_en": "Netherlands National Team",
+    "name_en": "Netherlands",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Netherlands_national_football_team_logo.svg",
     "country": "هولندا"
   },
   {
-    "id": 49,
+    "id": 69,
     "name": "منتخب البرتغال",
-    "name_en": "Portugal National Team",
+    "name_en": "Portugal",
     "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Portugal_national_football_team_logo.svg",
     "country": "البرتغال"
   },
   {
-    "id": 50,
+    "id": 70,
     "name": "منتخب بلجيكا",
-    "name_en": "Belgium National Team",
+    "name_en": "Belgium",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/65/Belgium_national_football_team_logo.svg",
     "country": "بلجيكا"
   },
   {
-    "id": 51,
+    "id": 71,
     "name": "منتخب كرواتيا",
-    "name_en": "Croatia National Team",
+    "name_en": "Croatia",
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/18/Croatia_national_football_team_logo.svg",
     "country": "كرواتيا"
   },
   {
-    "id": 52,
+    "id": 72,
     "name": "منتخب الأوروغواي",
-    "name_en": "Uruguay National Team",
+    "name_en": "Uruguay",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Uruguay_national_football_team_logo.svg",
     "country": "الأوروغواي"
   },
   {
-    "id": 53,
+    "id": 73,
     "name": "منتخب مصر",
-    "name_en": "Egypt National Team",
+    "name_en": "Egypt",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/77/Egypt_national_football_team_logo.svg",
     "country": "مصر"
   },
   {
-    "id": 54,
+    "id": 74,
     "name": "منتخب المغرب",
-    "name_en": "Morocco National Team",
+    "name_en": "Morocco",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Morocco_national_football_team_logo.svg",
     "country": "المغرب"
   },
   {
-    "id": 55,
+    "id": 75,
     "name": "منتخب السنغال",
-    "name_en": "Senegal National Team",
+    "name_en": "Senegal",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Senegal_national_football_team_logo.svg",
     "country": "السنغال"
   },
   {
-    "id": 56,
+    "id": 76,
     "name": "منتخب نيجيريا",
-    "name_en": "Nigeria National Team",
+    "name_en": "Nigeria",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Nigeria_national_football_team_logo.svg",
     "country": "نيجيريا"
   },
   {
-    "id": 57,
+    "id": 77,
     "name": "منتخب الكاميرون",
-    "name_en": "Cameroon National Team",
+    "name_en": "Cameroon",
     "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/Cameroon_national_football_team_logo.svg",
     "country": "الكاميرون"
   },
   {
-    "id": 58,
+    "id": 78,
     "name": "منتخب غانا",
-    "name_en": "Ghana National Team",
+    "name_en": "Ghana",
     "logo": "https://upload.wikimedia.org/wikipedia/en/6/6b/Ghana_national_football_team_logo.svg",
     "country": "غانا"
   },
   {
-    "id": 59,
+    "id": 79,
     "name": "منتخب كوت ديفوار",
-    "name_en": "Ivory Coast National Team",
+    "name_en": "Ivory Coast",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/fe/C%C3%B4te_d%27Ivoire_national_football_team_logo.svg",
     "country": "كوت ديفوار"
   },
   {
-    "id": 60,
+    "id": 80,
     "name": "منتخب تونس",
-    "name_en": "Tunisia National Team",
-    "logo": "https://upload.wik.wikimedia.org/wikipedia/en/7/79/Tunisia_national_football_team_logo.svg",
+    "name_en": "Tunisia",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Tunisia_national_football_team_logo.svg",
     "country": "تونس"
   },
   {
-    "id": 61,
+    "id": 81,
     "name": "منتخب الجزائر",
-    "name_en": "Algeria National Team",
+    "name_en": "Algeria",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Algeria_national_football_team_logo.svg",
     "country": "الجزائر"
   },
   {
-    "id": 62,
+    "id": 82,
     "name": "منتخب السعودية",
-    "name_en": "Saudi Arabia National Team",
+    "name_en": "Saudi Arabia",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Saudi_Arabia_national_football_team_logo.svg",
     "country": "السعودية"
   },
   {
-    "id": 63,
+    "id": 83,
     "name": "منتخب اليابان",
-    "name_en": "Japan National Team",
+    "name_en": "Japan",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Japan_national_football_team_logo.svg",
     "country": "اليابان"
   },
   {
-    "id": 64,
+    "id": 84,
     "name": "منتخب كوريا الجنوبية",
-    "name_en": "South Korea National Team",
+    "name_en": "South Korea",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/South_Korea_national_football_team_logo.svg",
     "country": "كوريا الجنوبية"
   },
   {
-    "id": 65,
+    "id": 85,
     "name": "منتخب أستراليا",
-    "name_en": "Australia National Team",
+    "name_en": "Australia",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/96/Australia_national_football_team_logo.svg",
     "country": "أستراليا"
+  },
+  {
+    "id": 86,
+    "name": "منتخب إنجلترا",
+    "name_en": "England",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/England_national_football_team_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 87,
+    "name": "منتخب سويسرا",
+    "name_en": "Switzerland",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/Switzerland_national_football_team_logo.svg",
+    "country": "سويسرا"
+  },
+  {
+    "id": 88,
+    "name": "منتخب السويد",
+    "name_en": "Sweden",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Sweden_national_football_team_logo.svg",
+    "country": "السويد"
+  },
+  {
+    "id": 89,
+    "name": "منتخب الدنمارك",
+    "name_en": "Denmark",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/Denmark_national_football_team_logo.svg",
+    "country": "الدنمارك"
+  },
+  {
+    "id": 90,
+    "name": "منتخب بولندا",
+    "name_en": "Poland",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/12/Poland_national_football_team_logo.svg",
+    "country": "بولندا"
+  },
+  {
+    "id": 91,
+    "name": "منتخب روسيا",
+    "name_en": "Russia",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/17/Russia_national_football_team_logo.svg",
+    "country": "روسيا"
+  },
+  {
+    "id": 92,
+    "name": "منتخب الولايات المتحدة",
+    "name_en": "USA",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/United_States_national_football_team_logo.svg",
+    "country": "الولايات المتحدة"
+  },
+  {
+    "id": 93,
+    "name": "منتخب المكسيك",
+    "name_en": "Mexico",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Mexico_national_football_team_logo.svg",
+    "country": "المكسيك"
+  },
+  {
+    "id": 94,
+    "name": "منتخب كولومبيا",
+    "name_en": "Colombia",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f8/Colombia_national_football_team_logo.svg",
+    "country": "كولومبيا"
+  },
+  {
+    "id": 95,
+    "name": "منتخب تشيلي",
+    "name_en": "Chile",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Chile_national_football_team_logo.svg",
+    "country": "تشيلي"
+  },
+  {
+    "id": 96,
+    "name": "منتخب الإكوادور",
+    "name_en": "Ecuador",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Ecuador_national_football_team_logo.svg",
+    "country": "الإكوادور"
+  },
+  {
+    "id": 97,
+    "name": "منتخب بيرو",
+    "name_en": "Peru",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Peru_national_football_team_logo.svg",
+    "country": "بيرو"
+  },
+  {
+    "id": 98,
+    "name": "منتخب تركيا",
+    "name_en": "Turkey",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Turkey_national_football_team_logo.svg",
+    "country": "تركيا"
+  },
+  {
+    "id": 99,
+    "name": "منتخب النمسا",
+    "name_en": "Austria",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Austria_national_football_team_logo.svg",
+    "country": "النمسا"
+  },
+  {
+    "id": 100,
+    "name": "منتخب المجر",
+    "name_en": "Hungary",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hungary_national_football_team_logo.svg",
+    "country": "المجر"
+  },
+  {
+    "id": 101,
+    "name": "منتخب صربيا",
+    "name_en": "Serbia",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Serbia_national_football_team_logo.svg",
+    "country": "صربيا"
+  },
+  {
+    "id": 102,
+    "name": "منتخب أوكرانيا",
+    "name_en": "Ukraine",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/Ukraine_national_football_team_logo.svg",
+    "country": "أوكرانيا"
+  },
+  {
+    "id": 103,
+    "name": "منتخب جمهورية أيرلندا",
+    "name_en": "Republic of Ireland",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Republic_of_Ireland_national_football_team_logo.svg",
+    "country": "أيرلندا"
+  },
+  {
+    "id": 104,
+    "name": "منتخب اسكتلندا",
+    "name_en": "Scotland",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/46/Scotland_national_football_team_logo.svg",
+    "country": "اسكتلندا"
+  },
+  {
+    "id": 105,
+    "name": "منتخب النرويج",
+    "name_en": "Norway",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/Norway_national_football_team_logo.svg",
+    "country": "النرويج"
+  },
+  {
+    "id": 106,
+    "name": "منتخب اليونان",
+    "name_en": "Greece",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Greece_national_football_team_logo.svg",
+    "country": "اليونان"
+  },
+  {
+    "id": 107,
+    "name": "منتخب جمهورية التشيك",
+    "name_en": "Czech Republic",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Czech_Republic_national_football_team_logo.svg",
+    "country": "التشيك"
+  },
+  {
+    "id": 108,
+    "name": "منتخب رومانيا",
+    "name_en": "Romania",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2c/Romania_national_football_team_logo.svg",
+    "country": "رومانيا"
+  },
+  {
+    "id": 109,
+    "name": "منتخب قطر",
+    "name_en": "Qatar",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/Qatar_national_football_team_logo.svg",
+    "country": "قطر"
+  },
+  {
+    "id": 110,
+    "name": "منتخب الإمارات",
+    "name_en": "UAE",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/United_Arab_Emirates_national_football_team_logo.svg",
+    "country": "الإمارات"
   }
 ]
