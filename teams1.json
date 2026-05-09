@@ -795,7 +795,7 @@
     "name": "منتخب صربيا",
     "name_en": "Serbia",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Serbia_national_football_team_logo.svg",
-    "country":
+    "country": "صربيا"
   },
   {
     "id": 115,
@@ -1020,7 +1020,7 @@
     "name_en": "Olympique Dcheira",
     "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/Olympique_Dcheira_logo.svg",
     "country": "المغرب"
-  }
+  },
   {
     "id": 147,
     "name": "شباب بلوزداد",
