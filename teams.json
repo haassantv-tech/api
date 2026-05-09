@@ -796,7 +796,8 @@
     "name_en": "Serbia",
     "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Serbia_national_football_team_logo.svg",
     "country":
-      {
+  },
+  {
     "id": 115,
     "name": "منتخب النمسا",
     "name_en": "Austria",
@@ -907,7 +908,7 @@
     "name_en": "Oman",
     "logo": "https://upload.wikimedia.org/wikipedia/en/a/ac/Oman_national_football_team_logo.svg",
     "country": "عمان"
-  }
+  },
   {
     "id": 131,
     "name": "الوداد الرياضي",
@@ -1131,7 +1132,7 @@
     "name_en": "ES Mostaganem",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/ES_Mostaganem_logo.svg",
     "country": "الجزائر"
-  }
+  },
   {
     "id": 163,
     "name": "الترجي الرياضي التونسي",
