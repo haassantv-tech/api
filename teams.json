@@ -908,4 +908,340 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/a/ac/Oman_national_football_team_logo.svg",
     "country": "عمان"
   }
+  {
+    "id": 131,
+    "name": "الوداد الرياضي",
+    "name_en": "Wydad AC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Wydad_Casablanca_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 132,
+    "name": "الرجاء الرياضي",
+    "name_en": "Raja CA",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Raja_Casablanca_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 133,
+    "name": "الجيش الملكي",
+    "name_en": "AS FAR",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/FAR_Rabat_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 134,
+    "name": "نهضة بركان",
+    "name_en": "RS Berkane",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/89/RS_Berkane_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 135,
+    "name": "المغرب الفاسي",
+    "name_en": "Maghreb de Fès",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/Maghreb_F%C3%A8s_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 136,
+    "name": "اتحاد طنجة",
+    "name_en": "IR Tanger",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/IR_Tanger_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 137,
+    "name": "حسنية أكادير",
+    "name_en": "HUS Agadir",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Hassania_Agadir_logo.png",
+    "country": "المغرب"
+  },
+  {
+    "id": 138,
+    "name": "الفتح الرياضي",
+    "name_en": "FUS Rabat",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/FUS_Rabat_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 139,
+    "name": "المولودية الوجدية",
+    "name_en": "COD Meknès",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/39/COD_Mekn%C3%A8s_logo.png",
+    "country": "المغرب"
+  },
+  {
+    "id": 140,
+    "name": "دفاع الجديدة",
+    "name_en": "Difaâ El Jadidi",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/Difaa_El_Jadida_logo.png",
+    "country": "المغرب"
+  },
+  {
+    "id": 141,
+    "name": "أولمبيك آسفي",
+    "name_en": "Olympic Safi",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/Olympic_Safi_logo.png",
+    "country": "المغرب"
+  },
+  {
+    "id": 142,
+    "name": "شباب المحمدية",
+    "name_en": "RCA Zemamra",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/RCA_Zemamra_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 143,
+    "name": "الاتحاد البيضاوي",
+    "name_en": "UTS Rabat",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/UTS_Rabat_logo.png",
+    "country": "المغرب"
+  },
+  {
+    "id": 144,
+    "name": "الكوكب المراكشي",
+    "name_en": "KAC Marrakech",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/KAC_Marrakech_logo.png",
+    "country": "المغرب"
+  },
+  {
+    "id": 145,
+    "name": "اليوسفية",
+    "name_en": "US Yacoub El Mansour",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/USYM_logo.svg",
+    "country": "المغرب"
+  },
+  {
+    "id": 146,
+    "name": "أولمبيك الدشيرة",
+    "name_en": "Olympique Dcheira",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/Olympique_Dcheira_logo.svg",
+    "country": "المغرب"
+  }
+  {
+    "id": 147,
+    "name": "شباب بلوزداد",
+    "name_en": "CR Belouizdad",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/CR_Belouizdad_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 148,
+    "name": "وفاق سطيف",
+    "name_en": "ES Sétif",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a5/ES_S%C3%A9tif_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 149,
+    "name": "شبيبة القبائل",
+    "name_en": "JS Kabylie",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/JS_Kabylie_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 150,
+    "name": "شبيبة الساورة",
+    "name_en": "JS Saoura",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/JS_Saoura_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 151,
+    "name": "مولودية الجزائر",
+    "name_en": "MC Alger",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/MC_Alger_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 152,
+    "name": "مولودية وهران",
+    "name_en": "MC Oran",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/MC_Oran_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 153,
+    "name": "اتحاد الجزائر",
+    "name_en": "USM Alger",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/USM_Alger_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 154,
+    "name": "وفاق أقبو",
+    "name_en": "Olympique Akbou",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9a/Olympique_Akbou_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 155,
+    "name": "شباب قسنطينة",
+    "name_en": "CS Constantine",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/CS_Constantine_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 156,
+    "name": "أمل بوسعادة",
+    "name_en": "ASO Chlef",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/ASO_Chlef_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 157,
+    "name": "اتحاد خنشلة",
+    "name_en": "USM Khenchela",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/USM_Khenchela_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 158,
+    "name": "بارادو",
+    "name_en": "Paradou AC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Paradou_AC_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 159,
+    "name": "أولمبي المدية",
+    "name_en": "ES Ben Aknoun",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/ES_Ben_Aknoun_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 160,
+    "name": "مولودية البيض",
+    "name_en": "MC El Bayadh",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/MC_El_Bayadh_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 161,
+    "name": "مولودية مصطفى بن إسماعيل",
+    "name_en": "MB Rouissat",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a3/MB_Rouissat_logo.svg",
+    "country": "الجزائر"
+  },
+  {
+    "id": 162,
+    "name": "اتحاد بلعباس",
+    "name_en": "ES Mostaganem",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/ES_Mostaganem_logo.svg",
+    "country": "الجزائر"
+  }
+  {
+    "id": 163,
+    "name": "الترجي الرياضي التونسي",
+    "name_en": "Espérance Sportive de Tunis",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5e/Esp%C3%A9rance_Sportive_de_Tunis_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 164,
+    "name": "النادي الإفريقي",
+    "name_en": "Club Africain",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e3/Club_Africain_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 165,
+    "name": "النجم الرياضي الساحلي",
+    "name_en": "Étoile Sportive du Sahel",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/%C3%89toile_Sportive_du_Sahel_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 166,
+    "name": "النادي الرياضي الصفاقسي",
+    "name_en": "Club Sportif Sfaxien",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/CS_Sfaxien_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 167,
+    "name": "الملعب التونسي",
+    "name_en": "Stade Tunisien",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d5/Stade_Tunisien_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 168,
+    "name": "الاتحاد الرياضي المنستيري",
+    "name_en": "Union Sportive Monastirienne",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5a/US_Monastir_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 169,
+    "name": "النادي الرياضي البنزرتي",
+    "name_en": "Club Athlétique Bizertin",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/CA_Bizertin_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 170,
+    "name": "الترجي الرياضي الجرجيسي",
+    "name_en": "Espérance Sportive de Zarzis",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/ES_Zarzis_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 171,
+    "name": "الأولمبي الباجي",
+    "name_en": "Olympique Béja",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Olympique_B%C3%A9ja_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 172,
+    "name": "نجم المتلوي",
+    "name_en": "Étoile Sportive de Métlaoui",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/ES_M%C3%A9tlaoui_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 173,
+    "name": "الاتحاد الرياضي ببن قردان",
+    "name_en": "Union Sportive de Ben Guerdane",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/US_Ben_Guerdane_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 174,
+    "name": "الشبيبة الرياضية القيروانية",
+    "name_en": "Jeunesse Sportive Kairouanaise",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/JS_Kairouan_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 175,
+    "name": "جمعية أريانة",
+    "name_en": "AS Marsa",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/AS_Marsa_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 176,
+    "name": "النادي الرياضي لحمام الأنف",
+    "name_en": "CS Hammam-Lif",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c5/CS_Hammam-Lif_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 177,
+    "name": "مستقبل قابس",
+    "name_en": "Avenir Sportif de Gabès",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/AS_Gab%C3%A8s_logo.svg",
+    "country": "تونس"
+  },
+  {
+    "id": 178,
+    "name": "الجمعية الرياضية سليمان",
+    "name_en": "AS Soliman",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/AS_Soliman_logo.svg",
+    "country": "تونس"
+  }
 ]
