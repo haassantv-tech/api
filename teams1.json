@@ -1,1248 +1,3741 @@
 [
   {
     "id": 1,
-    "name": "ريال مدريد",
-    "name_en": "Real Madrid",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 2,
-    "name": "برشلونة",
-    "name_en": "Barcelona",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 3,
-    "name": "أتلتيكو مدريد",
-    "name_en": "Atletico Madrid",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/3/33/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88_%D9%85%D8%AF%D8%B1%D9%8A%D8%AF_%282024%29.svg/960px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%A3%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88_%D9%85%D8%AF%D8%B1%D9%8A%D8%AF_%282024%29.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 4,
-    "name": "إشبيلية",
-    "name_en": "Sevilla",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/3/3b/Sevilla_FC_logo.svg/1280px-Sevilla_FC_logo.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 5,
-    "name": "فالنسيا",
-    "name_en": "Valencia",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/d/d3/Valencia_CF.svg/960px-Valencia_CF.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 6,
-    "name": "فياريال",
-    "name_en": "Villarreal",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/7/70/Villarreal_CF_logo.svg/1280px-Villarreal_CF_logo.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 7,
-    "name": "ريال بيتيس",
-    "name_en": "Real Betis",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/5/5f/Real_Betis_Balompi%C3%A9.svg/250px-Real_Betis_Balompi%C3%A9.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 8,
-    "name": "ريال سوسيداد",
-    "name_en": "Real Sociedad",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/f/f1/Real_Sociedad_logo.svg/1280px-Real_Sociedad_logo.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 9,
-    "name": "أثلتيك بلباو",
-    "name_en": "Athletic Bilbao",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1280px-Club_Athletic_Bilbao_logo.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 10,
-    "name": "سيلتا فيغو",
-    "name_en": "Celta Vigo",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/1/12/RC_Celta_de_Vigo_logo.svg/960px-RC_Celta_de_Vigo_logo.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 11,
-    "name": "خيتافي",
-    "name_en": "Getafe",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/4/46/Getafe_logo.svg/250px-Getafe_logo.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 12,
-    "name": "أوساسونا",
-    "name_en": "Osasuna",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/a/af/CA_Osasuna.svg/960px-CA_Osasuna.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 13,
-    "name": "إسبانيول",
-    "name_en": "Espanyol",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/29/RCD_Espanyol_de_Barcelona.svg/960px-RCD_Espanyol_de_Barcelona.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 14,
-    "name": "رايو فايكانو",
-    "name_en": "Rayo Vallecano",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/b/b6/Rayo_Vallecano.svg",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 15,
-    "name": "غرناطة",
-    "name_en": "Granada",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/7/77/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%BA%D8%B1%D9%86%D8%A7%D8%B7%D8%A9.svg/960px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%BA%D8%B1%D9%86%D8%A7%D8%B7%D8%A9.svg.png",
-    "country": "إسبانيا"
-  },
-  {
-    "id": 16,
-    "name": "مانشستر سيتي",
-    "name_en": "Manchester City",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "country": "إنجلترا"
-  },
-  {
-    "id": 17,
-    "name": "مانشستر يونايتد",
-    "name_en": "Manchester United",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
-    "country": "إنجلترا"
-  },
-  {
-    "id": 18,
     "name": "ليفربول",
     "name_en": "Liverpool",
     "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 19,
-    "name": "تشيلسي",
-    "name_en": "Chelsea",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+    "id": 2,
+    "name": "مانشستر سيتي",
+    "name_en": "Manchester City",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 20,
+    "id": 3,
     "name": "آرسنال",
     "name_en": "Arsenal",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 21,
+    "id": 4,
+    "name": "تشيلسي",
+    "name_en": "Chelsea",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 5,
+    "name": "مانشستر يونايتد",
+    "name_en": "Manchester United",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 6,
     "name": "توتنهام هوتسبير",
     "name_en": "Tottenham Hotspur",
     "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 22,
+    "id": 7,
     "name": "نيوكاسل يونايتد",
     "name_en": "Newcastle United",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 23,
+    "id": 8,
     "name": "أستون فيلا",
     "name_en": "Aston Villa",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/d/d2/Aston_Villa_FC_logo.svg/250px-Aston_Villa_FC_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/Aston_Villa_FC_crest_%282024%29.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 24,
+    "id": 9,
+    "name": "برايتون",
+    "name_en": "Brighton & Hove Albion",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 10,
+    "name": "برينتفورد",
+    "name_en": "Brentford",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 11,
+    "name": "فولهام",
+    "name_en": "Fulham",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 12,
+    "name": "كريستال بالاس",
+    "name_en": "Crystal Palace",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo_%282022%29.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 13,
     "name": "وست هام يونايتد",
     "name_en": "West Ham United",
     "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
     "country": "إنجلترا"
   },
   {
-    "id": 25,
-    "name": "ليستر سيتي",
-    "name_en": "Leicester City",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/2/2d/Leicester_City_crest.svg",
+    "id": 14,
+    "name": "إيفرتون",
+    "name_en": "Everton",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
     "country": "إنجلترا"
+  },
+  {
+    "id": 15,
+    "name": "وولفرهامبتون",
+    "name_en": "Wolverhampton Wanderers",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 16,
+    "name": "بورنموث",
+    "name_en": "AFC Bournemouth",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_%282013%29.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 17,
+    "name": "نوتنغهام فورست",
+    "name_en": "Nottingham Forest",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 18,
+    "name": "بيرنلي",
+    "name_en": "Burnley",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6d/Burnley_FC_Logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 19,
+    "name": "شيفيلد يونايتد",
+    "name_en": "Sheffield United",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Sheffield_United_FC_logo.svg",
+    "country": "إنجلترا"
+  },
+  {
+    "id": 20,
+    "name": "لوتون تاون",
+    "name_en": "Luton Town",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Luton_Town_logo.svg",
+    "country": "إنجلترا"
+    },
+{
+    "id": 21,
+    "name": "ريال مدريد",
+    "name_en": "Real Madrid",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 22,
+    "name": "برشلونة",
+    "name_en": "Barcelona",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 23,
+    "name": "أتلتيكو مدريد",
+    "name_en": "Atletico Madrid",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 24,
+    "name": "إشبيلية",
+    "name_en": "Sevilla",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 25,
+    "name": "فالنسيا",
+    "name_en": "Valencia",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valenciacf.svg",
+    "country": "إسبانيا"
   },
   {
     "id": 26,
-    "name": "برايتون",
-    "name_en": "Brighton",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
-    "country": "إنجلترا"
+    "name": "فياريال",
+    "name_en": "Villarreal",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg",
+    "country": "إسبانيا"
   },
   {
     "id": 27,
-    "name": "برينتفورد",
-    "name_en": "Brentford",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/b/b2/Brentford_FC_%282017%29.svg",
-    "country": "إنجلترا"
+    "name": "ريال بيتيس",
+    "name_en": "Real Betis",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/Real_Betis_logo.svg",
+    "country": "إسبانيا"
   },
   {
     "id": 28,
-    "name": "فولهام",
-    "name_en": "Fulham",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/1/13/Fulham_FC.svg/960px-Fulham_FC.svg.png",
-    "country": "إنجلترا"
+    "name": "ريال سوسيداد",
+    "name_en": "Real Sociedad",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/Real_Sociedad_logo.svg",
+    "country": "إسبانيا"
   },
   {
     "id": 29,
-    "name": "كريستال بالاس",
-    "name_en": "Crystal Palace",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/0c/Crystal_Palace_FC_logo.svg/1280px-Crystal_Palace_FC_logo.svg.png",
-    "country": "إنجلترا"
+    "name": "أتلتيك بلباو",
+    "name_en": "Athletic Bilbao",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg",
+    "country": "إسبانيا"
   },
   {
     "id": 30,
-    "name": "وولفرهامبتون",
-    "name_en": "Wolverhampton",
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/f/fc/Wolverhampton_Wanderers.svg/1280px-Wolverhampton_Wanderers.svg.png",
-    "country": "إنجلترا"
+    "name": "جيرونا",
+    "name_en": "Girona",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Girona_FC_Logo.svg",
+    "country": "إسبانيا"
   },
   {
     "id": 31,
+    "name": "خيتافي",
+    "name_en": "Getafe",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 32,
+    "name": "أوساسونا",
+    "name_en": "Osasuna",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/37/CA_Osasuna_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 33,
+    "name": "سيلتا فيغو",
+    "name_en": "Celta Vigo",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 34,
+    "name": "رايو فايكانو",
+    "name_en": "Rayo Vallecano",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/ea/Rayo_Vallecano_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 35,
+    "name": "ريال مايوركا",
+    "name_en": "Mallorca",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/RCD_Mallorca_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 36,
+    "name": "لاس بالماس",
+    "name_en": "Las Palmas",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8d/UD_Las_Palmas_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 37,
+    "name": "ديبورتيفو ألافيس",
+    "name_en": "Alaves",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Deportivo_Alav%C3%A9s_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 38,
+    "name": "قادش",
+    "name_en": "Cadiz",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/C%C3%A1diz_CF_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 39,
+    "name": "غرناطة",
+    "name_en": "Granada",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Granada_CF_logo.svg",
+    "country": "إسبانيا"
+  },
+  {
+    "id": 40,
+    "name": "ألميريا",
+    "name_en": "Almeria",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/UD_Almeria_logo.svg",
+    "country": "إسبانيا"
+    },
+  {
+    "id": 41,
+    "name": "بايرن ميونخ",
+    "name_en": "Bayern Munich",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282024%29.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 42,
+    "name": "بوروسيا دورتموند",
+    "name_en": "Borussia Dortmund",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 43,
+    "name": "باير ليفركوزن",
+    "name_en": "Bayer Leverkusen",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 44,
+    "name": "لايبزيغ",
+    "name_en": "RB Leipzig",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 45,
+    "name": "شتوتغارت",
+    "name_en": "VfB Stuttgart",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/VfB_Stuttgart_1893_Logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 46,
+    "name": "آينتراخت فرانكفورت",
+    "name_en": "Eintracht Frankfurt",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eintracht_Frankfurt_Logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 47,
+    "name": "فولفسبورغ",
+    "name_en": "Wolfsburg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 48,
+    "name": "بوروسيا مونشنغلادباخ",
+    "name_en": "Borussia Mönchengladbach",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 49,
+    "name": "هوفنهايم",
+    "name_en": "Hoffenheim",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/TSG_1899_Hoffenheim_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 50,
+    "name": "فرايبورغ",
+    "name_en": "SC Freiburg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SC_Freiburg_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 51,
+    "name": "يونيون برلين",
+    "name_en": "Union Berlin",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/1._FC_Union_Berlin_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 52,
+    "name": "فيردر بريمن",
+    "name_en": "Werder Bremen",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 53,
+    "name": "ماينز 05",
+    "name_en": "Mainz 05",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/75/1._FSV_Mainz_05_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 54,
+    "name": "أوغسبورغ",
+    "name_en": "Augsburg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/FC_Augsburg_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 55,
+    "name": "هايدنهايم",
+    "name_en": "Heidenheim",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/1._FC_Heidenheim_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 56,
+    "name": "بوخوم",
+    "name_en": "Bochum",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/VfL_Bochum_1848_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 57,
+    "name": "كولن",
+    "name_en": "FC Cologne",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/FC_Cologne_logo.svg",
+    "country": "ألمانيا"
+  },
+  {
+    "id": 58,
+    "name": "دارمشتات 98",
+    "name_en": "Darmstadt 98",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/SV_Darmstadt_98_logo.svg",
+    "country": "ألمانيا"
+ },
+  {
+    "id": 59,
     "name": "باريس سان جيرمان",
     "name_en": "Paris Saint-Germain",
     "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
     "country": "فرنسا"
   },
   {
-    "id": 32,
-    "name": "مارسيليا",
-    "name_en": "Marseille",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Olympique_de_Marseille_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 33,
-    "name": "ليون",
-    "name_en": "Lyon",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Olympique_Lyonnais_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 34,
-    "name": "موناكو",
-    "name_en": "Monaco",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/AS_Monaco_FC.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 35,
-    "name": "ليل",
-    "name_en": "Lille",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Lille_OSC_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 36,
-    "name": "رين",
-    "name_en": "Rennes",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/62/Stade_Rennais_FC_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 37,
-    "name": "نيس",
-    "name_en": "Nice",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/OGC_Nice_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 38,
-    "name": "لانس",
-    "name_en": "Lens",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/99/RC_Lens_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 39,
-    "name": "بوردو",
-    "name_en": "Bordeaux",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/FC_Girondins_de_Bordeaux_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 40,
-    "name": "سانت إتيان",
-    "name_en": "Saint-Etienne",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9b/AS_Saint-%C3%89tienne_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 41,
-    "name": "ستراسبورغ",
-    "name_en": "Strasbourg",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/cd/RC_Strasbourg_Alsace_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 42,
-    "name": "مونبلييه",
-    "name_en": "Montpellier",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Montpellier_HSC_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 43,
-    "name": "نانت",
-    "name_en": "Nantes",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a1/FC_Nantes_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 44,
-    "name": "ستاد ريمس",
-    "name_en": "Stade Reims",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5e/Stade_de_Reims_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 45,
-    "name": "برست",
-    "name_en": "Brest",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5b/Stade_Brestois_29_logo.svg",
-    "country": "فرنسا"
-  },
-  {
-    "id": 46,
-    "name": "يوفنتوس",
-    "name_en": "Juventus",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 47,
-    "name": "إنتر ميلان",
-    "name_en": "Inter Milan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 48,
-    "name": "إيه سي ميلان",
-    "name_en": "AC Milan",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/AC_Milan_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 49,
-    "name": "نابولي",
-    "name_en": "Napoli",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/SSC_Napoli_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 50,
-    "name": "روما",
-    "name_en": "Roma",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/AS_Roma_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 51,
-    "name": "لاتسيو",
-    "name_en": "Lazio",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/SS_Lazio_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 52,
-    "name": "أتالانتا",
-    "name_en": "Atalanta",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/Atalanta_BC_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 53,
-    "name": "فيورنتينا",
-    "name_en": "Fiorentina",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e2/ACF_Fiorentina_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 54,
-    "name": "بولونيا",
-    "name_en": "Bologna",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6d/Bologna_FC_1909_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 55,
-    "name": "تورينو",
-    "name_en": "Torino",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8e/Torino_FC_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 56,
-    "name": "ساسولو",
-    "name_en": "Sassuolo",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/US_Sassuolo_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 57,
-    "name": "أودينيزي",
-    "name_en": "Udinese",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/28/Udinese_Calcio_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 58,
-    "name": "مونزا",
-    "name_en": "Monza",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/AC_Monza_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
-    "id": 59,
-    "name": "جنوى",
-    "name_en": "Genoa",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/27/Genoa_CFC_logo.svg",
-    "country": "إيطاليا"
-  },
-  {
     "id": 60,
-    "name": "إمبولي",
-    "name_en": "Empoli",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6f/Empoli_FC_logo.svg",
-    "country": "إيطاليا"
+    "name": "مارسيليا",
+    "name_en": "Olympique de Marseille",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Olympique_Marseille_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 61,
-    "name": "فيرونا",
-    "name_en": "Verona",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/db/Hellas_Verona_logo.svg",
-    "country": "إيطاليا"
+    "name": "ليون",
+    "name_en": "Olympique Lyonnais",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
+    "country": "فرنسا"
   },
   {
     "id": 62,
-    "name": "ليتشي",
-    "name_en": "Lecce",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6a/US_Lecce_logo.svg",
-    "country": "إيطاليا"
+    "name": "موناكو",
+    "name_en": "AS Monaco",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC.svg",
+    "country": "فرنسا"
   },
   {
     "id": 63,
-    "name": "فروزينوني",
-    "name_en": "Frosinone",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Frosinone_Calcio_logo.svg",
-    "country": "إيطاليا"
+    "name": "ليل",
+    "name_en": "Lille",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/62/Lille_OSC_2018_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 64,
-    "name": "كالياري",
-    "name_en": "Cagliari",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/Cagliari_Calcio_logo.svg",
-    "country": "إيطاليا"
+    "name": "رين",
+    "name_en": "Rennes",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/Stade_Rennais_FC.svg",
+    "country": "فرنسا"
   },
   {
     "id": 65,
-    "name": "ساليرنيتانا",
-    "name_en": "Salernitana",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/US_Salernitana_1919_logo.svg",
-    "country": "إيطاليا"
+    "name": "نيس",
+    "name_en": "Nice",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/OGC_Nice_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 66,
-    "name": "الأهلي",
-    "name_en": "Al Ahly",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/Al_Ahly_SC_logo.svg",
-    "country": "مصر"
+    "name": "لانس",
+    "name_en": "Lens",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/RC_Lens_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 67,
-    "name": "الزمالك",
-    "name_en": "Zamalek",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/34/Zamalek_SC_logo.svg",
-    "country": "مصر"
+    "name": "ستاد بريست",
+    "name_en": "Brest",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0b/Stade_Brestois_29_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 68,
-    "name": "بيراميدز",
-    "name_en": "Pyramids FC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/Pyramids_FC_logo.svg",
-    "country": "مصر"
+    "name": "مونبلييه",
+    "name_en": "Montpellier",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/ae/Montpellier_HSC_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 69,
-    "name": "النادي المصري",
-    "name_en": "Al Masry",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/21/Al-Masry_SC_logo.svg",
-    "country": "مصر"
+    "name": "نانت",
+    "name_en": "Nantes",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9a/FC_Nantes_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 70,
-    "name": "الإسماعيلي",
-    "name_en": "Ismaily",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6b/Ismaily_SC_logo.svg",
-    "country": "مصر"
+    "name": "ستراسبورغ",
+    "name_en": "Strasbourg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/80/Racing_Club_de_Strasbourg_Alsace_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 71,
-    "name": "إنبي",
-    "name_en": "Enppi",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/ENPPI_Club_logo.svg",
-    "country": "مصر"
+    "name": "تولوز",
+    "name_en": "Toulouse",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0b/Toulouse_FC_Logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 72,
-    "name": "سموحة",
-    "name_en": "Smouha",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Smouha_SC_logo.svg",
-    "country": "مصر"
+    "name": "لوهافر",
+    "name_en": "Le Havre",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/33/Le_Havre_AC_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 73,
-    "name": "الاتحاد السكندري",
-    "name_en": "Al Ittihad Alexandria",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/Al_Ittihad_Alexandria_logo.svg",
-    "country": "مصر"
+    "name": "ريمس",
+    "name_en": "Reims",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Stade_de_Reims_logo.svg",
+    "country": "فرنسا"
   },
   {
     "id": 74,
-    "name": "المقاولون العرب",
-    "name_en": "Arab Contractors",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Al_Mokawloon_logo.svg",
-    "country": "مصر"
+    "name": "ميتز",
+    "name_en": "Metz",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/FC_Metz.svg",
+    "country": "فرنسا"
   },
   {
     "id": 75,
-    "name": "طلائع الجيش",
-    "name_en": "Tala'ea El Gaish",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/Tala%27ea_El_Gaish_logo.svg",
-    "country": "مصر"
+    "name": "لوريان",
+    "name_en": "Lorient",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/FC_Lorient_Bretagne_Sud.svg",
+    "country": "فرنسا"
   },
   {
     "id": 76,
-    "name": "سيراميكا كليوباترا",
-    "name_en": "Ceramica Cleopatra",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/55/Ceramica_Cleopatra_FC_logo.svg",
-    "country": "مصر"
+    "name": "كليرمون",
+    "name_en": "Clermont Foot",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Clermont_Foot_logo.svg",
+    "country": "فرنسا"
   },
-  {
+    {
     "id": 77,
-    "name": "فيوتشر",
-    "name_en": "Future FC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8c/Future_FC_logo.svg",
+    "name": "الأهلي",
+    "name_en": "Al Ahly SC",
+    "founded": 1907,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Al_Ahly_SC_logo.svg",
     "country": "مصر"
   },
   {
     "id": 78,
-    "name": "البنك الأهلي",
-    "name_en": "National Bank",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/National_Bank_FC_logo.svg",
+    "name": "الزمالك",
+    "name_en": "Zamalek SC",
+    "founded": 1911,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/34/Zamalek_SC_logo.svg",
     "country": "مصر"
   },
   {
     "id": 79,
-    "name": "فاركو",
-    "name_en": "Farco",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/48/Farco_FC_logo.svg",
+    "name": "بيراميدز",
+    "name_en": "Pyramids FC",
+    "founded": 2008,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6f/Pyramids_FC_logo.png",
     "country": "مصر"
   },
   {
     "id": 80,
-    "name": "الداخلية",
-    "name_en": "El Dakhleya",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/El_Dakhleya_SC_logo.svg",
+    "name": "المصري",
+    "name_en": "Al Masry SC",
+    "founded": 1920,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Al_Masry_SC_logo.png",
     "country": "مصر"
   },
   {
     "id": 81,
-    "name": "منتخب البرازيل",
-    "name_en": "Brazil",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Brazil_national_football_team_logo.svg",
-    "country": "البرازيل"
+    "name": "الاتحاد السكندري",
+    "name_en": "Al Ittihad Alexandria Club",
+    "founded": 1914,
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/7/7e/IttihadAlex.png",
+    "country": "مصر"
   },
   {
     "id": 82,
-    "name": "منتخب الأرجنتين",
-    "name_en": "Argentina",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1c/Argentina_national_football_team_logo.svg",
-    "country": "الأرجنتين"
+    "name": "الإسماعيلي",
+    "name_en": "Ismaily SC",
+    "founded": 1924,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f8/Ismaily_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 83,
-    "name": "منتخب فرنسا",
-    "name_en": "France",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/France_national_football_team_logo.svg",
-    "country": "فرنسا"
+    "name": "المقاولون العرب",
+    "name_en": "Al Mokawloon Al Arab SC",
+    "founded": 1973,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Al_Mokawloon_logo.png",
+    "country": "مصر"
   },
   {
     "id": 84,
-    "name": "منتخب ألمانيا",
-    "name_en": "Germany",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Germany_national_football_team_logo.svg",
-    "country": "ألمانيا"
+    "name": "إنبي",
+    "name_en": "ENPPI SC",
+    "founded": 1985,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/25/ENPPI_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 85,
-    "name": "منتخب إنجلترا",
-    "name_en": "England",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/be/England_national_football_team_logo.svg",
-    "country": "إنجلترا"
+    "name": "طلائع الجيش",
+    "name_en": "Tala'ea El Gaish SC",
+    "founded": 1997,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/17/Tala%27ea_El_Gaish_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 86,
-    "name": "منتخب إسبانيا",
-    "name_en": "Spain",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Spain_national_football_team_logo.svg",
-    "country": "إسبانيا"
+    "name": "البنك الأهلي",
+    "name_en": "National Bank of Egypt SC",
+    "founded": 1951,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/National_Bank_of_Egypt_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 87,
-    "name": "منتخب إيطاليا",
-    "name_en": "Italy",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2a/Italy_national_football_team_logo.svg",
-    "country": "إيطاليا"
+    "name": "سيراميكا كليوباترا",
+    "name_en": "Ceramica Cleopatra FC",
+    "founded": 2007,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/Ceramica_Cleopatra_FC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 88,
-    "name": "منتخب هولندا",
-    "name_en": "Netherlands",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Netherlands_national_football_team_logo.svg",
-    "country": "هولندا"
+    "name": "زد إف سي",
+    "name_en": "ZED FC",
+    "founded": 2009,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a2/ZED_FC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 89,
-    "name": "منتخب البرتغال",
-    "name_en": "Portugal",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/Portugal_national_football_team_logo.svg",
-    "country": "البرتغال"
+    "name": "المجلس الحديث",
+    "name_en": "Modern Sport FC",
+    "founded": 2011,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Modern_Sport_FC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 90,
-    "name": "منتخب بلجيكا",
-    "name_en": "Belgium",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/65/Belgium_national_football_team_logo.svg",
-    "country": "بلجيكا"
+    "name": "الجونة",
+    "name_en": "El Gouna FC",
+    "founded": 2003,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a9/El_Gouna_FC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 91,
-    "name": "منتخب كرواتيا",
-    "name_en": "Croatia",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/18/Croatia_national_football_team_logo.svg",
-    "country": "كرواتيا"
+    "name": "فاركو",
+    "name_en": "Pharco FC",
+    "founded": 2010,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/ab/Pharco_FC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 92,
-    "name": "منتخب الأوروغواي",
-    "name_en": "Uruguay",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Uruguay_national_football_team_logo.svg",
-    "country": "الأوروغواي"
+    "name": "سموحة",
+    "name_en": "Smouha SC",
+    "founded": 1949,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/59/Smouha_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 93,
-    "name": "منتخب مصر",
-    "name_en": "Egypt",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/77/Egypt_national_football_team_logo.svg",
+    "name": "حرس الحدود",
+    "name_en": "Haras El Hodoud SC",
+    "founded": 1950,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/68/Haras_El_Hodoud_SC_logo.png",
     "country": "مصر"
   },
   {
     "id": 94,
-    "name": "منتخب المغرب",
-    "name_en": "Morocco",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Morocco_national_football_team_logo.svg",
-    "country": "المغرب"
+    "name": "بتروجيت",
+    "name_en": "Petrojet SC",
+    "founded": 1980,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/33/Petrojet_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 95,
-    "name": "منتخب السنغال",
-    "name_en": "Senegal",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Senegal_national_football_team_logo.svg",
-    "country": "السنغال"
+    "name": "وادي دجلة",
+    "name_en": "Wadi Degla SC",
+    "founded": 2002,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/Wadi_Degla_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 96,
-    "name": "منتخب نيجيريا",
-    "name_en": "Nigeria",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Nigeria_national_football_team_logo.svg",
-    "country": "نيجيريا"
+    "name": "الإنتاج الحربي",
+    "name_en": "El Entag El Harby SC",
+    "founded": 2007,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/El_Entag_El_Harby_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 97,
-    "name": "منتخب الكاميرون",
-    "name_en": "Cameroon",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1a/Cameroon_national_football_team_logo.svg",
-    "country": "الكاميرون"
+    "name": "غزل المحلة",
+    "name_en": "Ghazl El Mahalla SC",
+    "founded": 1932,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/Ghazl_El_Mahalla_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 98,
-    "name": "منتخب غانا",
-    "name_en": "Ghana",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6b/Ghana_national_football_team_logo.svg",
-    "country": "غانا"
+    "name": "بلدية المحلة",
+    "name_en": "Baladiyat El Mahalla SC",
+    "founded": 1931,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/Baladiyat_El_Mahalla_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 99,
-    "name": "منتخب كوت ديفوار",
-    "name_en": "Ivory Coast",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fe/C%C3%B4te_d%27Ivoire_national_football_team_logo.svg",
-    "country": "كوت ديفوار"
+    "name": "الداخلية",
+    "name_en": "El Dakhleya SC",
+    "founded": 2005,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/El_Dakhleya_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 100,
-    "name": "منتخب تونس",
-    "name_en": "Tunisia",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Tunisia_national_football_team_logo.svg",
-    "country": "تونس"
+    "name": "مصر للمقاصة",
+    "name_en": "Misr Lel Makkasa SC",
+    "founded": 1999,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/46/Misr_Lel_Makkasa_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 101,
-    "name": "منتخب الجزائر",
-    "name_en": "Algeria",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/74/Algeria_national_football_team_logo.svg",
-    "country": "الجزائر"
+    "name": "أسوان",
+    "name_en": "Aswan SC",
+    "founded": 1980,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fe/Aswan_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 102,
-    "name": "منتخب السعودية",
-    "name_en": "Saudi Arabia",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Saudi_Arabia_national_football_team_logo.svg",
-    "country": "السعودية"
+    "name": "ترسانة",
+    "name_en": "Tersana SC",
+    "founded": 1920,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Tersana_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 103,
-    "name": "منتخب اليابان",
-    "name_en": "Japan",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/Japan_national_football_team_logo.svg",
-    "country": "اليابان"
+    "name": "بترول أسيوط",
+    "name_en": "Asyut Petroleum SC",
+    "founded": 1990,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Asyut_Petroleum_logo.png",
+    "country": "مصر"
   },
   {
     "id": 104,
-    "name": "منتخب كوريا الجنوبية",
-    "name_en": "South Korea",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/South_Korea_national_football_team_logo.svg",
-    "country": "كوريا الجنوبية"
+    "name": "المنصورة",
+    "name_en": "El Mansoura SC",
+    "founded": 1932,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/El_Mansoura_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 105,
-    "name": "منتخب أستراليا",
-    "name_en": "Australia",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/96/Australia_national_football_team_logo.svg",
-    "country": "أستراليا"
+    "name": "كهرباء الإسماعيلية",
+    "name_en": "Kahraba Ismailia SC",
+    "founded": 1935,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 106,
-    "name": "منتخب سويسرا",
-    "name_en": "Switzerland",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/Switzerland_national_football_team_logo.svg",
-    "country": "سويسرا"
+    "name": "النصر",
+    "name_en": "Al Nasr SC (Cairo)",
+    "founded": 2000,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Al_Nasr_SC_logo.png",
+    "country": "مصر"
   },
   {
     "id": 107,
-    "name": "منتخب السويد",
-    "name_en": "Sweden",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Sweden_national_football_team_logo.svg",
-    "country": "السويد"
+    "name": "المنيا",
+    "name_en": "El Minya SC",
+    "founded": 1928,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 108,
-    "name": "منتخب الدنمارك",
-    "name_en": "Denmark",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/Denmark_national_football_team_logo.svg",
-    "country": "الدنمارك"
+    "name": "القناة",
+    "name_en": "El Qanah FC",
+    "founded": 1935,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 109,
-    "name": "منتخب بولندا",
-    "name_en": "Poland",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/12/Poland_national_football_team_logo.svg",
-    "country": "بولندا"
+    "name": "دمياط",
+    "name_en": "Damietta SC",
+    "founded": 1923,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 110,
-    "name": "منتخب الولايات المتحدة",
-    "name_en": "USA",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/United_States_national_football_team_logo.svg",
-    "country": "الولايات المتحدة"
+    "name": "ألعاب دمنهور",
+    "name_en": "Ala'ab Damanhour SC",
+    "founded": 2000,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 111,
-    "name": "منتخب المكسيك",
-    "name_en": "Mexico",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Mexico_national_football_team_logo.svg",
-    "country": "المكسيك"
+    "name": "سوهاج",
+    "name_en": "Sohag FC",
+    "founded": 1931,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 112,
-    "name": "منتخب كولومبيا",
-    "name_en": "Colombia",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f8/Colombia_national_football_team_logo.svg",
-    "country": "كولومبيا"
+    "name": "النصر للتعدين",
+    "name_en": "Al Nasr Lel Taa'den SC",
+    "founded": 1938,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 113,
-    "name": "منتخب تركيا",
-    "name_en": "Turkey",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Turkey_national_football_team_logo.svg",
-    "country": "تركيا"
+    "name": "السكة الحديد",
+    "name_en": "El Sekka El Hadid SC",
+    "founded": 1903,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 114,
-    "name": "منتخب صربيا",
-    "name_en": "Serbia",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Serbia_national_football_team_logo.svg",
-    "country": "صربيا"
+    "name": "الأوليمبي",
+    "name_en": "Olympic Club (Alexandria)",
+    "founded": 1905,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 115,
-    "name": "منتخب النمسا",
-    "name_en": "Austria",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7e/Austria_national_football_team_logo.svg",
-    "country": "النمسا"
+    "name": "كفر الشيخ",
+    "name_en": "Kafr El Sheikh SC",
+    "founded": 1929,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 116,
-    "name": "منتخب المجر",
-    "name_en": "Hungary",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hungary_national_football_team_logo.svg",
-    "country": "المجر"
+    "name": "طنطا",
+    "name_en": "Tanta SC",
+    "founded": 1932,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 117,
-    "name": "منتخب أوكرانيا",
-    "name_en": "Ukraine",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/Ukraine_national_football_team_logo.svg",
-    "country": "أوكرانيا"
+    "name": "أبو قير للأسمدة",
+    "name_en": "Abu Qir Fertilizers SC",
+    "founded": 1946,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 118,
-    "name": "منتخب جمهورية أيرلندا",
-    "name_en": "Republic of Ireland",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Republic_of_Ireland_national_football_team_logo.svg",
-    "country": "أيرلندا"
+    "name": "الشرقية",
+    "name_en": "Sharkia SC",
+    "founded": 1961,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 119,
-    "name": "منتخب اسكتلندا",
-    "name_en": "Scotland",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/46/Scotland_national_football_team_logo.svg",
-    "country": "اسكتلندا"
+    "name": "جمهورية شبين",
+    "name_en": "Gomhoriat Shebin SC",
+    "founded": 1932,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 120,
-    "name": "منتخب النرويج",
-    "name_en": "Norway",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/Norway_national_football_team_logo.svg",
-    "country": "النرويج"
+    "name": "تليفونات بني سويف",
+    "name_en": "Telephonat Beni Suef SC",
+    "founded": 2010,
+    "logo": "",
+    "country": "مصر"
   },
   {
     "id": 121,
-    "name": "منتخب اليونان",
-    "name_en": "Greece",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Greece_national_football_team_logo.svg",
-    "country": "اليونان"
-  },
-  {
+    "name": "زينثكس",
+    "name_en": "Zynthx SC",
+    "founded": 2006,
+    "logo": "",
+    "country": "مصر"
+ },
+   {
     "id": 122,
-    "name": "منتخب جمهورية التشيك",
-    "name_en": "Czech Republic",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Czech_Republic_national_football_team_logo.svg",
-    "country": "التشيك"
+    "name": "الوداد البيضاوي",
+    "name_en": "Wydad AC",
+    "founded": 1937,
+    "logo": "https://upload.wikimedia.org/wikipedia/de/7/7e/Wydad_Casablanca.svg",
+    "country": "المغرب"
   },
   {
     "id": 123,
-    "name": "منتخب رومانيا",
-    "name_en": "Romania",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2c/Romania_national_football_team_logo.svg",
-    "country": "رومانيا"
+    "name": "الرجاء البيضاوي",
+    "name_en": "Raja CA",
+    "founded": 1949,
+    "logo": "https://upload.wikimedia.org/wikipedia/de/3/31/Raja_Casablanca.svg",
+    "country": "المغرب"
   },
   {
     "id": 124,
-    "name": "منتخب قطر",
-    "name_en": "Qatar",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b0/Qatar_national_football_team_logo.svg",
-    "country": "قطر"
+    "name": "الجيش الملكي",
+    "name_en": "AS FAR",
+    "founded": 1958,
+    "logo": "https://upload.wikimedia.org/wikipedia/de/b/b1/FAR_Rabat.svg",
+    "country": "المغرب"
   },
   {
     "id": 125,
-    "name": "منتخب الإمارات",
-    "name_en": "UAE",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/United_Arab_Emirates_national_football_team_logo.svg",
-    "country": "الإمارات"
+    "name": "نهضة بركان",
+    "name_en": "RS Berkane",
+    "founded": 1938,
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/e/e7/RSBerkane.png",
+    "country": "المغرب"
   },
   {
     "id": 126,
-    "name": "منتخب إيران",
-    "name_en": "Iran",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9c/Iran_national_football_team_logo.svg",
-    "country": "إيران"
+    "name": "المغرب الفاسي",
+    "name_en": "MAS Fès",
+    "founded": 1946,
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/a/a6/Maghreb_AS.png",
+    "country": "المغرب"
   },
   {
     "id": 127,
-    "name": "منتخب العراق",
-    "name_en": "Iraq",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Iraq_national_football_team_logo.svg",
-    "country": "العراق"
+    "name": "الفتح الرباطي",
+    "name_en": "FUS Rabat",
+    "founded": 1946,
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/b/bc/FUS_Rabat.png",
+    "country": "المغرب"
   },
   {
     "id": 128,
-    "name": "منتخب الأردن",
-    "name_en": "Jordan",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f3/Jordan_national_football_team_logo.svg",
-    "country": "الأردن"
+    "name": "حسنية أكادير",
+    "name_en": "Hassania Agadir",
+    "founded": 1946,
+    "logo": "https://upload.wikimedia.org/wikipedia/de/2/2f/Hassania_Agadir.png",
+    "country": "المغرب"
   },
   {
     "id": 129,
-    "name": "منتخب البحرين",
-    "name_en": "Bahrain",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2d/Bahrain_national_football_team_logo.svg",
-    "country": "البحرين"
+    "name": "اتحاد طنجة",
+    "name_en": "IR Tanger",
+    "founded": 1953,
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/6/62/Ittihad_Riadi_Tanger.png",
+    "country": "المغرب"
   },
   {
     "id": 130,
-    "name": "منتخب عمان",
-    "name_en": "Oman",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/ac/Oman_national_football_team_logo.svg",
-    "country": "عمان"
+    "name": "المولودية الوجدية",
+    "name_en": "MC Oujda",
+    "founded": 1946,
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/5/5e/Mouloudia_Oujda.png",
+    "country": "المغرب"
   },
   {
     "id": 131,
-    "name": "الوداد الرياضي",
-    "name_en": "Wydad AC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/09/Wydad_Casablanca_logo.svg",
+    "name": "أولمبيك آسفي",
+    "name_en": "Olympic Safi",
+    "founded": 1921,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 132,
-    "name": "الرجاء الرياضي",
-    "name_en": "Raja CA",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/Raja_Casablanca_logo.svg",
+    "name": "شباب المحمدية",
+    "name_en": "SCC Mohammédia",
+    "founded": 1948,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 133,
-    "name": "الجيش الملكي",
-    "name_en": "AS FAR",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/FAR_Rabat_logo.svg",
+    "name": "اتحاد يعقوب المنصور",
+    "name_en": "US Yacoub El Mansour",
+    "founded": 2010,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 134,
-    "name": "نهضة بركان",
-    "name_en": "RS Berkane",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/89/RS_Berkane_logo.svg",
+    "name": "الكوكب المراكشي",
+    "name_en": "KAC Marrakech",
+    "founded": 1947,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 135,
-    "name": "المغرب الفاسي",
-    "name_en": "Maghreb de Fès",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e1/Maghreb_F%C3%A8s_logo.svg",
+    "name": "أولمبيك الدشيرة",
+    "name_en": "Olympique Dcheira",
+    "founded": 1987,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 136,
-    "name": "اتحاد طنجة",
-    "name_en": "IR Tanger",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/IR_Tanger_logo.svg",
+    "name": "دفاع الجديدي",
+    "name_en": "Difaa El Jadida",
+    "founded": 1956,
+    "logo": "https://upload.wikimedia.org/wikipedia/de/9/95/DifaaElJadida.png",
     "country": "المغرب"
   },
   {
     "id": 137,
-    "name": "حسنية أكادير",
-    "name_en": "HUS Agadir",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Hassania_Agadir_logo.png",
+    "name": "نهضة الزمامرة",
+    "name_en": "RCA Zemamra",
+    "founded": 1977,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 138,
-    "name": "الفتح الرياضي",
-    "name_en": "FUS Rabat",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3b/FUS_Rabat_logo.svg",
+    "name": "اتحاد التواحة",
+    "name_en": "Union Touarga",
+    "founded": 1969,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 139,
-    "name": "المولودية الوجدية",
-    "name_en": "COD Meknès",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/39/COD_Mekn%C3%A8s_logo.png",
+    "name": "شباب السوالم",
+    "name_en": "JS Soualem",
+    "founded": 1984,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 140,
-    "name": "دفاع الجديدة",
-    "name_en": "Difaâ El Jadidi",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/Difaa_El_Jadida_logo.png",
+    "name": "مولودية وجدة",
+    "name_en": "MC Oujda",
+    "founded": 1946,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 141,
-    "name": "أولمبيك آسفي",
-    "name_en": "Olympic Safi",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/aa/Olympic_Safi_logo.png",
+    "name": "مولودية تطوان",
+    "name_en": "Moghreb Tétouan",
+    "founded": 1922,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 142,
-    "name": "شباب المحمدية",
-    "name_en": "RCA Zemamra",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9f/RCA_Zemamra_logo.svg",
+    "name": "الكوكب المراكشي",
+    "name_en": "KAC Marrakech",
+    "founded": 1947,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 143,
-    "name": "الاتحاد البيضاوي",
-    "name_en": "UTS Rabat",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/UTS_Rabat_logo.png",
+    "name": "شباب الريف الحسيمي",
+    "name_en": "Chabab Rif Al Hoceima",
+    "founded": 1953,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 144,
-    "name": "الكوكب المراكشي",
-    "name_en": "KAC Marrakech",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4b/KAC_Marrakech_logo.png",
+    "name": "سريع وادي زم",
+    "name_en": "Rapide Oued Zem",
+    "founded": 1926,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 145,
-    "name": "اليوسفية",
-    "name_en": "US Yacoub El Mansour",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/USYM_logo.svg",
+    "name": "الإتحاد الإسلامي الوجدي",
+    "name_en": "USM Oujda",
+    "founded": 1958,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 146,
-    "name": "أولمبيك الدشيرة",
-    "name_en": "Olympique Dcheira",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/Olympique_Dcheira_logo.svg",
+    "name": "شباب أطلس خنيفرة",
+    "name_en": "Chabab Atlas Khénifra",
+    "founded": 1943,
+    "logo": "",
     "country": "المغرب"
   },
   {
     "id": 147,
-    "name": "شباب بلوزداد",
-    "name_en": "CR Belouizdad",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4e/CR_Belouizdad_logo.svg",
-    "country": "الجزائر"
+    "name": "الإتحاد الزموري للخميسات",
+    "name_en": "Ittihad Zemmouri Khémisset",
+    "founded": 1940,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 148,
-    "name": "وفاق سطيف",
-    "name_en": "ES Sétif",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a5/ES_S%C3%A9tif_logo.svg",
-    "country": "الجزائر"
+    "name": "شباب بن جرير",
+    "name_en": "Jeunesse Ben Guerir",
+    "founded": 1952,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 149,
-    "name": "شبيبة القبائل",
-    "name_en": "JS Kabylie",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/JS_Kabylie_logo.svg",
-    "country": "الجزائر"
+    "name": "إتحاد طنجة",
+    "name_en": "Ittihad Riadi Tanger",
+    "founded": 1953,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 150,
-    "name": "شبيبة الساورة",
-    "name_en": "JS Saoura",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/24/JS_Saoura_logo.svg",
-    "country": "الجزائر"
+    "name": "الرجاء الملالي",
+    "name_en": "Raja Beni Mellal",
+    "founded": 1956,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 151,
-    "name": "مولودية الجزائر",
-    "name_en": "MC Alger",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/MC_Alger_logo.svg",
-    "country": "الجزائر"
+    "name": "الفتح الرياضي",
+    "name_en": "FUS Rabat",
+    "founded": 1946,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 152,
-    "name": "مولودية وهران",
-    "name_en": "MC Oran",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/MC_Oran_logo.svg",
-    "country": "الجزائر"
+    "name": "مولودية الداخلة",
+    "name_en": "Mouloudia Dakhla",
+    "founded": 1989,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 153,
-    "name": "اتحاد الجزائر",
-    "name_en": "USM Alger",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/USM_Alger_logo.svg",
-    "country": "الجزائر"
+    "name": "سريع وادي زم",
+    "name_en": "Rapide Oued Zem",
+    "founded": 1926,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 154,
-    "name": "وفاق أقبو",
-    "name_en": "Olympique Akbou",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9a/Olympique_Akbou_logo.svg",
-    "country": "الجزائر"
+    "name": "الرجاء الملالي",
+    "name_en": "Raja Beni Mellal",
+    "founded": 1956,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 155,
-    "name": "شباب قسنطينة",
-    "name_en": "CS Constantine",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/CS_Constantine_logo.svg",
-    "country": "الجزائر"
+    "name": "المغرب التطواني",
+    "name_en": "Moghreb Tétouan",
+    "founded": 1922,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 156,
-    "name": "أمل بوسعادة",
-    "name_en": "ASO Chlef",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/ASO_Chlef_logo.svg",
-    "country": "الجزائر"
+    "name": "نهضة بركان",
+    "name_en": "RS Berkane",
+    "founded": 1938,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 157,
-    "name": "اتحاد خنشلة",
-    "name_en": "USM Khenchela",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/63/USM_Khenchela_logo.svg",
-    "country": "الجزائر"
+    "name": "أولمبيك أسفي",
+    "name_en": "Olympic Safi",
+    "founded": 1921,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 158,
-    "name": "بارادو",
-    "name_en": "Paradou AC",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Paradou_AC_logo.svg",
-    "country": "الجزائر"
+    "name": "الكوكب المراكشي",
+    "name_en": "KAC Marrakech",
+    "founded": 1947,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 159,
-    "name": "أولمبي المدية",
-    "name_en": "ES Ben Aknoun",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e6/ES_Ben_Aknoun_logo.svg",
-    "country": "الجزائر"
+    "name": "الرجاء البيضاوي",
+    "name_en": "Raja Casablanca",
+    "founded": 1949,
+    "logo": "",
+    "country": "المغرب"
   },
   {
     "id": 160,
-    "name": "مولودية البيض",
-    "name_en": "MC El Bayadh",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d0/MC_El_Bayadh_logo.svg",
-    "country": "الجزائر"
+    "name": "الوداد البيضاوي",
+    "name_en": "Wydad Casablanca",
+    "founded": 1937,
+    "logo": "",
+    "country": "المغرب"
   },
-  {
+    {
     "id": 161,
-    "name": "مولودية مصطفى بن إسماعيل",
-    "name_en": "MB Rouissat",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a3/MB_Rouissat_logo.svg",
-    "country": "الجزائر"
+    "name": "الترجي الرياضي التونسي",
+    "name_en": "Espérance Sportive de Tunis",
+    "founded": 1919,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Esp%C3%A9rance_Sportive_de_Tunis_logo.png",
+    "country": "تونس"
   },
   {
     "id": 162,
-    "name": "اتحاد بلعباس",
-    "name_en": "ES Mostaganem",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/ES_Mostaganem_logo.svg",
-    "country": "الجزائر"
+    "name": "النادي الإفريقي",
+    "name_en": "Club Africain",
+    "founded": 1920,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/83/Club_Africain_logo.png",
+    "country": "تونس"
   },
   {
     "id": 163,
-    "name": "الترجي الرياضي التونسي",
-    "name_en": "Espérance Sportive de Tunis",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5e/Esp%C3%A9rance_Sportive_de_Tunis_logo.svg",
+    "name": "النجم الرياضي الساحلي",
+    "name_en": "Étoile Sportive du Sahel",
+    "founded": 1925,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/%C3%89toile_Sportive_du_Sahel_logo.png",
     "country": "تونس"
   },
   {
     "id": 164,
-    "name": "النادي الإفريقي",
-    "name_en": "Club Africain",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e3/Club_Africain_logo.svg",
+    "name": "النادي الرياضي الصفاقسي",
+    "name_en": "CS Sfaxien",
+    "founded": 1928,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6b/CS_Sfaxien_logo.png",
     "country": "تونس"
   },
   {
     "id": 165,
-    "name": "النجم الرياضي الساحلي",
-    "name_en": "Étoile Sportive du Sahel",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/07/%C3%89toile_Sportive_du_Sahel_logo.svg",
+    "name": "الملعب التونسي",
+    "name_en": "Stade Tunisien",
+    "founded": 1948,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Stade_Tunisien_logo.png",
     "country": "تونس"
   },
   {
     "id": 166,
-    "name": "النادي الرياضي الصفاقسي",
-    "name_en": "Club Sportif Sfaxien",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/CS_Sfaxien_logo.svg",
+    "name": "النادي الرياضي البنزرتي",
+    "name_en": "CA Bizertin",
+    "founded": 1928,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8d/CA_Bizertin_logo.png",
     "country": "تونس"
   },
   {
     "id": 167,
-    "name": "الملعب التونسي",
-    "name_en": "Stade Tunisien",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d5/Stade_Tunisien_logo.svg",
+    "name": "الاتحاد الرياضي المنستيري",
+    "name_en": "US Monastir",
+    "founded": 1923,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 168,
-    "name": "الاتحاد الرياضي المنستيري",
-    "name_en": "Union Sportive Monastirienne",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5a/US_Monastir_logo.svg",
+    "name": "الأولمبي الباجي",
+    "name_en": "Olympique Béja",
+    "founded": 1929,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 169,
-    "name": "النادي الرياضي البنزرتي",
-    "name_en": "Club Athlétique Bizertin",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/CA_Bizertin_logo.svg",
+    "name": "النجم الرياضي بالمتلوي",
+    "name_en": "ES Métlaoui",
+    "founded": 1921,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 170,
-    "name": "الترجي الرياضي الجرجيسي",
-    "name_en": "Espérance Sportive de Zarzis",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/ES_Zarzis_logo.svg",
+    "name": "القوافل الرياضية بقفصة",
+    "name_en": "EGS Gafsa",
+    "founded": 1967,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 171,
-    "name": "الأولمبي الباجي",
-    "name_en": "Olympique Béja",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Olympique_B%C3%A9ja_logo.svg",
+    "name": "نادي حمام الأنف",
+    "name_en": "CS Hammam-Lif",
+    "founded": 1944,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 172,
-    "name": "نجم المتلوي",
-    "name_en": "Étoile Sportive de Métlaoui",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/ES_M%C3%A9tlaoui_logo.svg",
+    "name": "النجم الرياضي بالرادس",
+    "name_en": "ES Radès",
+    "founded": 1948,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 173,
-    "name": "الاتحاد الرياضي ببن قردان",
-    "name_en": "Union Sportive de Ben Guerdane",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/US_Ben_Guerdane_logo.svg",
+    "name": "جندوبة الرياضية",
+    "name_en": "Jendouba Sports",
+    "founded": 1922,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 174,
-    "name": "الشبيبة الرياضية القيروانية",
-    "name_en": "Jeunesse Sportive Kairouanaise",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/JS_Kairouan_logo.svg",
+    "name": "النادي الأولمبي للنقل",
+    "name_en": "Club Olympique des Transports",
+    "founded": 1966,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 175,
-    "name": "جمعية أريانة",
-    "name_en": "AS Marsa",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f9/AS_Marsa_logo.svg",
+    "name": "سبورتينغ بن عروس",
+    "name_en": "SC Ben Arous",
+    "founded": 1945,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 176,
-    "name": "النادي الرياضي لحمام الأنف",
-    "name_en": "CS Hammam-Lif",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c5/CS_Hammam-Lif_logo.svg",
+    "name": "شبيبة القيروان",
+    "name_en": "JS Kairouanaise",
+    "founded": 1942,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 177,
-    "name": "مستقبل قابس",
-    "name_en": "Avenir Sportif de Gabès",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c3/AS_Gab%C3%A8s_logo.svg",
+    "name": "مستقبل المرسى",
+    "name_en": "AS Marsa",
+    "founded": 1939,
+    "logo": "",
     "country": "تونس"
   },
   {
     "id": 178,
-    "name": "الجمعية الرياضية سليمان",
-    "name_en": "AS Soliman",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/AS_Soliman_logo.svg",
+    "name": "مستقبل قابس",
+    "name_en": "AS Gabès",
+    "founded": 1957,
+    "logo": "",
     "country": "تونس"
+  },
+  {
+    "id": 179,
+    "name": "الملعب القابسي",
+    "name_en": "Stade Gabésien",
+    "founded": 1957,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 180,
+    "name": "نادي المحيط القرقني",
+    "name_en": "Océano Club de Kerkennah",
+    "founded": 1963,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 181,
+    "name": "أولمبيك سيدي بوزيد",
+    "name_en": "Olympique Sidi Bouzid",
+    "founded": 1959,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 182,
+    "name": "قرمبالية الرياضية",
+    "name_en": "Grombalia Sports",
+    "founded": 1939,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 183,
+    "name": "مكارم المهدية",
+    "name_en": "El Makarem de Mahdia",
+    "founded": 1937,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 184,
+    "name": "هلال مساكن",
+    "name_en": "Croissant Sportif de M'saken",
+    "founded": 1945,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 185,
+    "name": "سكك الحديد الصفاقسي",
+    "name_en": "Sfax Railways Sports",
+    "founded": 1920,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 186,
+    "name": "جمعية أريانة",
+    "name_en": "AS Ariana",
+    "founded": 1938,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 187,
+    "name": "وفاق سوليمان",
+    "name_en": "AS Soliman",
+    "founded": 1960,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 188,
+    "name": "الاتحاد الرياضي ببن قردان",
+    "name_en": "US Ben Guerdane",
+    "founded": 1936,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 189,
+    "name": "النجم الرياضي ببني خلاد",
+    "name_en": "ES Béni Khalled",
+    "founded": 1946,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 190,
+    "name": "مستقبل وادي الليل",
+    "name_en": "AS Oued Ellil",
+    "founded": 1976,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 191,
+    "name": "نادي كرة القدم بجريصة",
+    "name_en": "FC Jérissa",
+    "founded": 1922,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 192,
+    "name": "الملعب النابلي",
+    "name_en": "Stade Nabeulien",
+    "founded": 1936,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 193,
+    "name": "الكوكب الرياضي بعقارب",
+    "name_en": "OC Kerkennah",
+    "founded": 1963,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 194,
+    "name": "القلعة الرياضية",
+    "name_en": "Kalaa Sport",
+    "founded": 1961,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 195,
+    "name": "الجمعية الرياضية بمجاز الباب",
+    "name_en": "AS Majaz El Bab",
+    "founded": 1956,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 196,
+    "name": "محيط القليبية",
+    "name_en": "CS Korba",
+    "founded": 1960,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 197,
+    "name": "نجم المتلوي",
+    "name_en": "ES Métlaoui",
+    "founded": 1970,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 198,
+    "name": "الملعب الرياضي الصفاقسي",
+    "name_en": "Stade Sportif Sfaxien",
+    "founded": 1958,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 199,
+    "name": "شبيبة جبنيانة",
+    "name_en": "JS Djebeniana",
+    "founded": 1961,
+    "logo": "",
+    "country": "تونس"
+  },
+  {
+    "id": 200,
+    "name": "سبورتينغ المكنين",
+    "name_en": "SC Moknine",
+    "founded": 1945,
+    "logo": "",
+    "country": "تونس"
+  },
+    {
+    "id": 201,
+    "name": "شبيبة القبائل",
+    "name_en": "JS Kabylie",
+    "founded": 1946,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 202,
+    "name": "وفاق سطيف",
+    "name_en": "ES Sétif",
+    "founded": 1958,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 203,
+    "name": "مولودية الجزائر",
+    "name_en": "MC Alger",
+    "founded": 1921,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 204,
+    "name": "اتحاد الجزائر",
+    "name_en": "USM Alger",
+    "founded": 1937,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 205,
+    "name": "شباب بلوزداد",
+    "name_en": "CR Belouizdad",
+    "founded": 1962,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 206,
+    "name": "مولودية وهران",
+    "name_en": "MC Oran",
+    "founded": 1917,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 207,
+    "name": "شبيبة الساورة",
+    "name_en": "JS Saoura",
+    "founded": 2008,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 208,
+    "name": "وفاق تلمسان",
+    "name_en": "WA Tlemcen",
+    "founded": 1970,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 209,
+    "name": "اتحاد الحراش",
+    "name_en": "USM El Harrach",
+    "founded": 1935,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 210,
+    "name": "نصر حسين داي",
+    "name_en": "NA Hussein Dey",
+    "founded": 1947,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 211,
+    "name": "أولمبي الشلف",
+    "name_en": "ASO Chlef",
+    "founded": 1947,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 212,
+    "name": "أمل بوسعادة",
+    "name_en": "Amal Bou Saâda",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 213,
+    "name": "اتحاد بن عكنون",
+    "name_en": "US Ben Aknoun",
+    "founded": 2000,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 214,
+    "name": "شبيبة بجاية",
+    "name_en": "JSM Béjaïa",
+    "founded": 1936,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 215,
+    "name": "أولمبي المدية",
+    "name_en": "Olympique de Médéa",
+    "founded": 1922,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 216,
+    "name": "شبيبة سكيكدة",
+    "name_en": "JSM Skikda",
+    "founded": 1923,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 217,
+    "name": "اتحاد بلعباس",
+    "name_en": "USM Bel Abbès",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 218,
+    "name": "اتحاد عنابة",
+    "name_en": "USM Annaba",
+    "founded": 1926,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 219,
+    "name": "شباب قسنطينة",
+    "name_en": "CS Constantine",
+    "founded": 1898,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 220,
+    "name": "مولودية قسنطينة",
+    "name_en": "MO Constantine",
+    "founded": 1939,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 221,
+    "name": "أولمبي العناصر",
+    "name_en": "OMR El Annasser",
+    "founded": 1936,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 222,
+    "name": "اتحاد بسكرة",
+    "name_en": "US Biskra",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 223,
+    "name": "أمل صفاق",
+    "name_en": "AS Khroub",
+    "founded": 1930,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 224,
+    "name": "شبيبة القليعة",
+    "name_en": "RC Kouba",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 225,
+    "name": "اتحاد عين مليلة",
+    "name_en": "AS Aïn M'lila",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 226,
+    "name": "شبيبة عين وسارة",
+    "name_en": "CRB Aïn Oussera",
+    "founded": 1930,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 227,
+    "name": "مولودية باتنة",
+    "name_en": "MSP Batna",
+    "founded": 1934,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 228,
+    "name": "شبيبة تيارت",
+    "name_en": "JSM Tiaret",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 229,
+    "name": "نادي بارادو",
+    "name_en": "Paradou AC",
+    "founded": 1994,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 230,
+    "name": "أولمبي أقبو",
+    "name_en": "Olympique Akbou",
+    "founded": 1975,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 231,
+    "name": "رائد الرويسات",
+    "name_en": "MB Rouisset",
+    "founded": 1960,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 232,
+    "name": "شباب باتنة",
+    "name_en": "CA Batna",
+    "founded": 1948,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 233,
+    "name": "أمل الأربعاء",
+    "name_en": "RC Arbaâ",
+    "founded": 1945,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 234,
+    "name": "سريع غليزان",
+    "name_en": "RC Relizane",
+    "founded": 1934,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 235,
+    "name": "اتحاد خنشلة",
+    "name_en": "USM Khenchela",
+    "founded": 1993,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 236,
+    "name": "مولودية البيض",
+    "name_en": "MC El Bayadh",
+    "founded": 1991,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 237,
+    "name": "امل سطيف",
+    "name_en": "USM Sétif",
+    "founded": 1933,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 238,
+    "name": "مولودية سعيدة",
+    "name_en": "MC Saïda",
+    "founded": 1939,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 239,
+    "name": "نادي مقرة",
+    "name_en": "NC Magra",
+    "founded": 1928,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 240,
+    "name": "أمل عزازقة",
+    "name_en": "ES Azzefoun",
+    "founded": 1930,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 241,
+    "name": "غالي معسكر",
+    "name_en": "GC Mascara",
+    "founded": 1913,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 242,
+    "name": "شباب شراقة",
+    "name_en": "JSM Chéraga",
+    "founded": 1924,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 243,
+    "name": "اتحاد عين تموشنت",
+    "name_en": "CR Témouchent",
+    "founded": 1962,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 244,
+    "name": "أمل مروانة",
+    "name_en": "AB Mérouana",
+    "founded": 1945,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 245,
+    "name": "اتحاد البليدة",
+    "name_en": "USM Blida",
+    "founded": 1932,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 246,
+    "name": "شباب برج بوعريريج",
+    "name_en": "CA Bordj Bou Arréridj",
+    "founded": 1931,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 247,
+    "name": "مولودية العلمة",
+    "name_en": "MC El Eulma",
+    "founded": 1936,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 248,
+    "name": "اتحاد أولاد إبراهيم",
+    "name_en": "US Oued Amizour",
+    "founded": 1960,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 249,
+    "name": "شباب أدرار",
+    "name_en": "US Adrar",
+    "founded": 1968,
+    "logo": "",
+    "country": "الجزائر"
+  },
+  {
+    "id": 250,
+    "name": "شباب برج منايل",
+    "name_en": "JS Bordj Ménaïel",
+    "founded": 1921,
+    "logo": "",
+    "country": "الجزائر"
+  },
+    {
+    "id": 251,
+    "name": "الهلال",
+    "name_en": "Al-Hilal SFC",
+    "founded": 1957,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 252,
+    "name": "النصر",
+    "name_en": "Al-Nassr FC",
+    "founded": 1955,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 253,
+    "name": "الاتحاد",
+    "name_en": "Al-Ittihad Club",
+    "founded": 1927,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 254,
+    "name": "الأهلي",
+    "name_en": "Al-Ahli SFC",
+    "founded": 1937,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 255,
+    "name": "الشباب",
+    "name_en": "Al-Shabab FC",
+    "founded": 1947,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 256,
+    "name": "الاتفاق",
+    "name_en": "Al-Ettifaq FC",
+    "founded": 1945,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 257,
+    "name": "القادسية",
+    "name_en": "Al-Qadsiah FC",
+    "founded": 1967,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 258,
+    "name": "التعاون",
+    "name_en": "Al-Taawoun FC",
+    "founded": 1956,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 259,
+    "name": "الفتح",
+    "name_en": "Al-Fateh SC",
+    "founded": 1958,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 260,
+    "name": "الفيحاء",
+    "name_en": "Al-Fayha FC",
+    "founded": 1954,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 261,
+    "name": "الخلود",
+    "name_en": "Al-Kholood Club",
+    "founded": 1970,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 262,
+    "name": "الخليج",
+    "name_en": "Khaleej FC",
+    "founded": 1945,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 263,
+    "name": "ضمك",
+    "name_en": "Damac FC",
+    "founded": 1972,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 264,
+    "name": "الرياض",
+    "name_en": "Al-Riyadh SC",
+    "founded": 1954,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 265,
+    "name": "الأخدود",
+    "name_en": "Al-Okhdood Club",
+    "founded": 1976,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 266,
+    "name": "نيوم",
+    "name_en": "Neom SC",
+    "founded": 2021,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 267,
+    "name": "النجمة",
+    "name_en": "Al-Najma SC",
+    "founded": 1960,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 268,
+    "name": "الحزم",
+    "name_en": "Al-Hazem SC",
+    "founded": 1957,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 269,
+    "name": "الوحدة",
+    "name_en": "Al-Wehda FC",
+    "founded": 1945,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 270,
+    "name": "العروبة",
+    "name_en": "Al-Orobah FC",
+    "founded": 1975,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 271,
+    "name": "الرائد",
+    "name_en": "Al-Raed SFC",
+    "founded": 1954,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 272,
+    "name": "أبها",
+    "name_en": "Abha Club",
+    "founded": 1999,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 273,
+    "name": "الدرعية",
+    "name_en": "Al-Diraiyah FC",
+    "founded": 1976,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 274,
+    "name": "العلا",
+    "name_en": "Al-Ula FC",
+    "founded": 1976,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 275,
+    "name": "الفيصلي",
+    "name_en": "Al-Faisaly FC",
+    "founded": 1954,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 276,
+    "name": "الجبلين",
+    "name_en": "Al-Jabalain FC",
+    "founded": 1959,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 277,
+    "name": "الزلفي",
+    "name_en": "Al-Zulfi SFC",
+    "founded": 1964,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 278,
+    "name": "البكيرية",
+    "name_en": "Al-Bukiryah FC",
+    "founded": 1968,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 279,
+    "name": "الطائي",
+    "name_en": "Al-Tai FC",
+    "founded": 1961,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 280,
+    "name": "العربي",
+    "name_en": "Al-Arabi SC",
+    "founded": 1960,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 281,
+    "name": "جدة",
+    "name_en": "Jeddah SC",
+    "founded": 1962,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 282,
+    "name": "الباطن",
+    "name_en": "Al-Batin FC",
+    "founded": 1979,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 283,
+    "name": "العدالة",
+    "name_en": "Al-Adalah FC",
+    "founded": 1984,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 284,
+    "name": "الجندل",
+    "name_en": "Al-Jandal SC",
+    "founded": 1976,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 285,
+    "name": "الجبيل",
+    "name_en": "Al-Jubail Club",
+    "founded": 1975,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 286,
+    "name": "الأنوار",
+    "name_en": "Al-Anwar Club",
+    "founded": 2010,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 287,
+    "name": "الصفا",
+    "name_en": "Al-Safa",
+    "founded": 1970,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 288,
+    "name": "أحد",
+    "name_en": "Ohod Club",
+    "founded": 1936,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 289,
+    "name": "العين",
+    "name_en": "Al-Ain",
+    "founded": 1978,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 290,
+    "name": "هجر",
+    "name_en": "Hajer",
+    "founded": 1950,
+    "logo": "",
+    "country": "السعودية"
+  },
+  {
+    "id": 291,
+    "name": "المنتخب الأرجنتيني",
+    "name_en": "Argentina",
+    "founded": 1893,
+    "logo": "",
+    "country": "الأرجنتين",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 292,
+    "name": "المنتخب البرازيلي",
+    "name_en": "Brazil",
+    "founded": 1914,
+    "logo": "",
+    "country": "البرازيل",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 293,
+    "name": "المنتخب الأوروغواياني",
+    "name_en": "Uruguay",
+    "founded": 1900,
+    "logo": "",
+    "country": "الأوروغواي",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 294,
+    "name": "المنتخب الكولومبي",
+    "name_en": "Colombia",
+    "founded": 1924,
+    "logo": "",
+    "country": "كولومبيا",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 295,
+    "name": "المنتخب الإكوادوري",
+    "name_en": "Ecuador",
+    "founded": 1925,
+    "logo": "",
+    "country": "الإكوادور",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 296,
+    "name": "المنتخب الباراغواياني",
+    "name_en": "Paraguay",
+    "founded": 1906,
+    "logo": "",
+    "country": "باراغواي",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 297,
+    "name": "المنتخب التشيلي",
+    "name_en": "Chile",
+    "founded": 1895,
+    "logo": "",
+    "country": "تشيلي",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 298,
+    "name": "المنتخب البوليفي",
+    "name_en": "Bolivia",
+    "founded": 1925,
+    "logo": "",
+    "country": "بوليفيا",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 299,
+    "name": "المنتخب البيروفي",
+    "name_en": "Peru",
+    "founded": 1927,
+    "logo": "",
+    "country": "بيرو",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 300,
+    "name": "المنتخب الفنزويلي",
+    "name_en": "Venezuela",
+    "founded": 1926,
+    "logo": "",
+    "country": "فنزويلا",
+    "confederation": "CONMEBOL"
+  },
+  {
+    "id": 301,
+    "name": "المنتخب الفرنسي",
+    "name_en": "France",
+    "founded": 1904,
+    "logo": "",
+    "country": "فرنسا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 302,
+    "name": "المنتخب الإنجليزي",
+    "name_en": "England",
+    "founded": 1872,
+    "logo": "",
+    "country": "إنجلترا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 303,
+    "name": "المنتخب الإسباني",
+    "name_en": "Spain",
+    "founded": 1913,
+    "logo": "",
+    "country": "إسبانيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 304,
+    "name": "المنتخب الألماني",
+    "name_en": "Germany",
+    "founded": 1900,
+    "logo": "",
+    "country": "ألمانيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 305,
+    "name": "المنتخب الإيطالي",
+    "name_en": "Italy",
+    "founded": 1898,
+    "logo": "",
+    "country": "إيطاليا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 306,
+    "name": "المنتخب الهولندي",
+    "name_en": "Netherlands",
+    "founded": 1905,
+    "logo": "",
+    "country": "هولندا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 307,
+    "name": "المنتخب البرتغالي",
+    "name_en": "Portugal",
+    "founded": 1914,
+    "logo": "",
+    "country": "البرتغال",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 308,
+    "name": "المنتخب البلجيكي",
+    "name_en": "Belgium",
+    "founded": 1895,
+    "logo": "",
+    "country": "بلجيكا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 309,
+    "name": "المنتخب الكرواتي",
+    "name_en": "Croatia",
+    "founded": 1990,
+    "logo": "",
+    "country": "كرواتيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 310,
+    "name": "المنتخب السويسري",
+    "name_en": "Switzerland",
+    "founded": 1895,
+    "logo": "",
+    "country": "سويسرا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 311,
+    "name": "المنتخب السويدي",
+    "name_en": "Sweden",
+    "founded": 1904,
+    "logo": "",
+    "country": "السويد",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 312,
+    "name": "المنتخب الدنماركي",
+    "name_en": "Denmark",
+    "founded": 1889,
+    "logo": "",
+    "country": "الدنمارك",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 313,
+    "name": "المنتخب النرويجي",
+    "name_en": "Norway",
+    "founded": 1908,
+    "logo": "",
+    "country": "النرويج",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 314,
+    "name": "المنتخب التشيكي",
+    "name_en": "Czech Republic",
+    "founded": 1901,
+    "logo": "",
+    "country": "التشيك",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 315,
+    "name": "المنتخب التركي",
+    "name_en": "Turkey",
+    "founded": 1923,
+    "logo": "",
+    "country": "تركيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 316,
+    "name": "المنتخب النمساوي",
+    "name_en": "Austria",
+    "founded": 1904,
+    "logo": "",
+    "country": "النمسا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 317,
+    "name": "المنتخب الاسكتلندي",
+    "name_en": "Scotland",
+    "founded": 1872,
+    "logo": "",
+    "country": "اسكتلندا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 318,
+    "name": "المنتخب البوسني",
+    "name_en": "Bosnia and Herzegovina",
+    "founded": 1992,
+    "logo": "",
+    "country": "البوسنة والهرسك",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 319,
+    "name": "المنتخب اليوناني",
+    "name_en": "Greece",
+    "founded": 1926,
+    "logo": "",
+    "country": "اليونان",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 320,
+    "name": "المنتخب الروسي",
+    "name_en": "Russia",
+    "founded": 1912,
+    "logo": "",
+    "country": "روسيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 321,
+    "name": "المنتخب البولندي",
+    "name_en": "Poland",
+    "founded": 1919,
+    "logo": "",
+    "country": "بولندا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 322,
+    "name": "المنتخب الأوكراني",
+    "name_en": "Ukraine",
+    "founded": 1991,
+    "logo": "",
+    "country": "أوكرانيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 323,
+    "name": "المنتخب الصربي",
+    "name_en": "Serbia",
+    "founded": 1919,
+    "logo": "",
+    "country": "صربيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 324,
+    "name": "المنتخب الروماني",
+    "name_en": "Romania",
+    "founded": 1909,
+    "logo": "",
+    "country": "رومانيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 325,
+    "name": "المنتخب المجري",
+    "name_en": "Hungary",
+    "founded": 1901,
+    "logo": "",
+    "country": "المجر",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 326,
+    "name": "المنتخب السلوفاكي",
+    "name_en": "Slovakia",
+    "founded": 1993,
+    "logo": "",
+    "country": "سلوفاكيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 327,
+    "name": "المنتخب السلوفيني",
+    "name_en": "Slovenia",
+    "founded": 1991,
+    "logo": "",
+    "country": "سلوفينيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 328,
+    "name": "المنتخب الأيرلندي",
+    "name_en": "Republic of Ireland",
+    "founded": 1921,
+    "logo": "",
+    "country": "جمهورية أيرلندا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 329,
+    "name": "المنتخب الفنلندي",
+    "name_en": "Finland",
+    "founded": 1907,
+    "logo": "",
+    "country": "فنلندا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 330,
+    "name": "المنتخب الآيسلندي",
+    "name_en": "Iceland",
+    "founded": 1947,
+    "logo": "",
+    "country": "آيسلندا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 331,
+    "name": "المنتخب الألباني",
+    "name_en": "Albania",
+    "founded": 1930,
+    "logo": "",
+    "country": "ألبانيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 332,
+    "name": "المنتخب الجورجي",
+    "name_en": "Georgia",
+    "founded": 1991,
+    "logo": "",
+    "country": "جورجيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 333,
+    "name": "المنتخب المقدوني",
+    "name_en": "North Macedonia",
+    "founded": 1948,
+    "logo": "",
+    "country": "شمال مقدونيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 334,
+    "name": "المنتخب القبرصي",
+    "name_en": "Cyprus",
+    "founded": 1934,
+    "logo": "",
+    "country": "قبرص",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 335,
+    "name": "المنتخب المونتينيغري",
+    "name_en": "Montenegro",
+    "founded": 2006,
+    "logo": "",
+    "country": "الجبل الأسود",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 336,
+    "name": "المنتخب اللاتفي",
+    "name_en": "Latvia",
+    "founded": 1921,
+    "logo": "",
+    "country": "لاتفيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 337,
+    "name": "المنتخب الليتواني",
+    "name_en": "Lithuania",
+    "founded": 1922,
+    "logo": "",
+    "country": "ليتوانيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 338,
+    "name": "المنتخب الإستوني",
+    "name_en": "Estonia",
+    "founded": 1921,
+    "logo": "",
+    "country": "إستونيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 339,
+    "name": "المنتخب المولدوفي",
+    "name_en": "Moldova",
+    "founded": 1990,
+    "logo": "",
+    "country": "مولدوفا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 340,
+    "name": "المنتخب الأذربيجاني",
+    "name_en": "Azerbaijan",
+    "founded": 1992,
+    "logo": "",
+    "country": "أذربيجان",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 341,
+    "name": "المنتخب الأرميني",
+    "name_en": "Armenia",
+    "founded": 1992,
+    "logo": "",
+    "country": "أرمينيا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 342,
+    "name": "المنتخب الكازاخستاني",
+    "name_en": "Kazakhstan",
+    "founded": 1994,
+    "logo": "",
+    "country": "كازاخستان",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 343,
+    "name": "المنتخب البلغاري",
+    "name_en": "Bulgaria",
+    "founded": 1922,
+    "logo": "",
+    "country": "بلغاريا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 344,
+    "name": "المنتخب البيلاروسي",
+    "name_en": "Belarus",
+    "founded": 1989,
+    "logo": "",
+    "country": "بيلاروس",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 345,
+    "name": "المنتخب اللوكسمبورغي",
+    "name_en": "Luxembourg",
+    "founded": 1908,
+    "logo": "",
+    "country": "لوكسمبورغ",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 346,
+    "name": "المنتخب المالطي",
+    "name_en": "Malta",
+    "founded": 1900,
+    "logo": "",
+    "country": "مالطا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 347,
+    "name": "المنتخب الأندوري",
+    "name_en": "Andorra",
+    "founded": 1994,
+    "logo": "",
+    "country": "أندورا",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 348,
+    "name": "المنتخب الليختنشتايني",
+    "name_en": "Liechtenstein",
+    "founded": 1933,
+    "logo": "",
+    "country": "ليختنشتاين",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 349,
+    "name": "المنتخب السان مارينوي",
+    "name_en": "San Marino",
+    "founded": 1931,
+    "logo": "",
+    "country": "سان مارينو",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 350,
+    "name": "المنتخب الجبل الأسود",
+    "name_en": "Montenegro",
+    "founded": 2006,
+    "logo": "",
+    "country": "الجبل الأسود",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 351,
+    "name": "المنتخب الموناكي",
+    "name_en": "Monaco",
+    "founded": 1919,
+    "logo": "",
+    "country": "موناكو",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 352,
+    "name": "المنتخب الجبل الأسود",
+    "name_en": "Montenegro",
+    "founded": 2006,
+    "logo": "",
+    "country": "الجبل الأسود",
+    "confederation": "UEFA"
+  },
+  {
+    "id": 353,
+    "name": "المنتخب المصري",
+    "name_en": "Egypt",
+    "founded": 1921,
+    "logo": "",
+    "country": "مصر",
+    "confederation": "CAF"
+  },
+  {
+    "id": 354,
+    "name": "المنتخب المغربي",
+    "name_en": "Morocco",
+    "founded": 1928,
+    "logo": "",
+    "country": "المغرب",
+    "confederation": "CAF"
+  },
+  {
+    "id": 355,
+    "name": "المنتخب الجزائري",
+    "name_en": "Algeria",
+    "founded": 1962,
+    "logo": "",
+    "country": "الجزائر",
+    "confederation": "CAF"
+  },
+  {
+    "id": 356,
+    "name": "المنتخب التونسي",
+    "name_en": "Tunisia",
+    "founded": 1956,
+    "logo": "",
+    "country": "تونس",
+    "confederation": "CAF"
+  },
+  {
+    "id": 357,
+    "name": "المنتخب السنغالي",
+    "name_en": "Senegal",
+    "founded": 1960,
+    "logo": "",
+    "country": "السنغال",
+    "confederation": "CAF"
+  },
+  {
+    "id": 358,
+    "name": "المنتخب الغاني",
+    "name_en": "Ghana",
+    "founded": 1957,
+    "logo": "",
+    "country": "غانا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 359,
+    "name": "المنتخب الكاميروني",
+    "name_en": "Cameroon",
+    "founded": 1959,
+    "logo": "",
+    "country": "الكاميرون",
+    "confederation": "CAF"
+  },
+  {
+    "id": 360,
+    "name": "المنتخب النيجيري",
+    "name_en": "Nigeria",
+    "founded": 1949,
+    "logo": "",
+    "country": "نيجيريا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 361,
+    "name": "المنتخب الإيفواري",
+    "name_en": "Ivory Coast",
+    "founded": 1960,
+    "logo": "",
+    "country": "ساحل العاج",
+    "confederation": "CAF"
+  },
+  {
+    "id": 362,
+    "name": "المنتخب المالي",
+    "name_en": "Mali",
+    "founded": 1960,
+    "logo": "",
+    "country": "مالي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 363,
+    "name": "المنتخب البوركيني",
+    "name_en": "Burkina Faso",
+    "founded": 1960,
+    "logo": "",
+    "country": "بوركينا فاسو",
+    "confederation": "CAF"
+  },
+  {
+    "id": 364,
+    "name": "المنتخب الكونغولي الديمقراطي",
+    "name_en": "DR Congo",
+    "founded": 1919,
+    "logo": "",
+    "country": "جمهورية الكونغو الديمقراطية",
+    "confederation": "CAF"
+  },
+  {
+    "id": 365,
+    "name": "المنتخب الكونغولي",
+    "name_en": "Republic of Congo",
+    "founded": 1962,
+    "logo": "",
+    "country": "جمهورية الكونغو",
+    "confederation": "CAF"
+  },
+  {
+    "id": 366,
+    "name": "المنتخب الزامبي",
+    "name_en": "Zambia",
+    "founded": 1929,
+    "logo": "",
+    "country": "زامبيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 367,
+    "name": "المنتخب الأوغندي",
+    "name_en": "Uganda",
+    "founded": 1924,
+    "logo": "",
+    "country": "أوغندا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 368,
+    "name": "المنتخب الأنغولي",
+    "name_en": "Angola",
+    "founded": 1979,
+    "logo": "",
+    "country": "أنغولا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 369,
+    "name": "المنتخب الجنوب أفريقي",
+    "name_en": "South Africa",
+    "founded": 1992,
+    "logo": "",
+    "country": "جنوب أفريقيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 370,
+    "name": "المنتخب السوداني",
+    "name_en": "Sudan",
+    "founded": 1936,
+    "logo": "",
+    "country": "السودان",
+    "confederation": "CAF"
+  },
+  {
+    "id": 371,
+    "name": "المنتخب الليبي",
+    "name_en": "Libya",
+    "founded": 1953,
+    "logo": "",
+    "country": "ليبيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 372,
+    "name": "المنتخب الجيبوتي",
+    "name_en": "Djibouti",
+    "founded": 1979,
+    "logo": "",
+    "country": "جيبوتي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 373,
+    "name": "المنتخب الصومالي",
+    "name_en": "Somalia",
+    "founded": 1950,
+    "logo": "",
+    "country": "الصومال",
+    "confederation": "CAF"
+  },
+  {
+    "id": 374,
+    "name": "المنتخب الجيبوتي",
+    "name_en": "Djibouti",
+    "founded": 1979,
+    "logo": "",
+    "country": "جيبوتي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 375,
+    "name": "المنتخب الموريتاني",
+    "name_en": "Mauritania",
+    "founded": 1961,
+    "logo": "",
+    "country": "موريتانيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 376,
+    "name": "المنتخب الناميبي",
+    "name_en": "Namibia",
+    "founded": 1990,
+    "logo": "",
+    "country": "ناميبيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 377,
+    "name": "المنتخب البوتسواني",
+    "name_en": "Botswana",
+    "founded": 1970,
+    "logo": "",
+    "country": "بوتسوانا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 378,
+    "name": "المنتخب الزيمبابوي",
+    "name_en": "Zimbabwe",
+    "founded": 1970,
+    "logo": "",
+    "country": "زيمبابوي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 379,
+    "name": "المنتخب الموزمبيقي",
+    "name_en": "Mozambique",
+    "founded": 1976,
+    "logo": "",
+    "country": "موزمبيق",
+    "confederation": "CAF"
+  },
+  {
+    "id": 380,
+    "name": "المنتخب المالاوي",
+    "name_en": "Malawi",
+    "founded": 1966,
+    "logo": "",
+    "country": "مالاوي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 381,
+    "name": "المنتخب الرواندي",
+    "name_en": "Rwanda",
+    "founded": 1972,
+    "logo": "",
+    "country": "رواندا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 382,
+    "name": "المنتخب البوروندي",
+    "name_en": "Burundi",
+    "founded": 1948,
+    "logo": "",
+    "country": "بوروندي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 383,
+    "name": "المنتخب الإثيوبي",
+    "name_en": "Ethiopia",
+    "founded": 1943,
+    "logo": "",
+    "country": "إثيوبيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 384,
+    "name": "المنتخب الإريتري",
+    "name_en": "Eritrea",
+    "founded": 1992,
+    "logo": "",
+    "country": "إريتريا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 385,
+    "name": "المنتخب الكيني",
+    "name_en": "Kenya",
+    "founded": 1960,
+    "logo": "",
+    "country": "كينيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 386,
+    "name": "المنتخب التنزاني",
+    "name_en": "Tanzania",
+    "founded": 1930,
+    "logo": "",
+    "country": "تنزانيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 387,
+    "name": "المنتخب الأوغندي",
+    "name_en": "Uganda",
+    "founded": 1924,
+    "logo": "",
+    "country": "أوغندا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 388,
+    "name": "المنتخب الجيبوتي",
+    "name_en": "Djibouti",
+    "founded": 1979,
+    "logo": "",
+    "country": "جيبوتي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 389,
+    "name": "المنتخب الصحراوي",
+    "name_en": "SADR",
+    "founded": 1976,
+    "logo": "",
+    "country": "الجمهورية العربية الصحراوية الديمقراطية",
+    "confederation": "CAF"
+  },
+  {
+    "id": 390,
+    "name": "المنتخب الرأس الأخضر",
+    "name_en": "Cape Verde",
+    "founded": 1982,
+    "logo": "",
+    "country": "الرأس الأخضر",
+    "confederation": "CAF"
+  },
+  {
+    "id": 391,
+    "name": "المنتخب الغيني",
+    "name_en": "Guinea",
+    "founded": 1960,
+    "logo": "",
+    "country": "غينيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 392,
+    "name": "المنتخب البيساوي",
+    "name_en": "Guinea-Bissau",
+    "founded": 1974,
+    "logo": "",
+    "country": "غينيا بيساو",
+    "confederation": "CAF"
+  },
+  {
+    "id": 393,
+    "name": "المنتخب السيراليوني",
+    "name_en": "Sierra Leone",
+    "founded": 1967,
+    "logo": "",
+    "country": "سيراليون",
+    "confederation": "CAF"
+  },
+  {
+    "id": 394,
+    "name": "المنتخب الليبيري",
+    "name_en": "Liberia",
+    "founded": 1936,
+    "logo": "",
+    "country": "ليبيريا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 395,
+    "name": "المنتخب التوغولي",
+    "name_en": "Togo",
+    "founded": 1960,
+    "logo": "",
+    "country": "توغو",
+    "confederation": "CAF"
+  },
+  {
+    "id": 396,
+    "name": "المنتخب البنيني",
+    "name_en": "Benin",
+    "founded": 1962,
+    "logo": "",
+    "country": "بنين",
+    "confederation": "CAF"
+  },
+  {
+    "id": 397,
+    "name": "المنتخب الغامبي",
+    "name_en": "Gambia",
+    "founded": 1952,
+    "logo": "",
+    "country": "غامبيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 398,
+    "name": "المنتخب السنغالي",
+    "name_en": "Senegal",
+    "founded": 1960,
+    "logo": "",
+    "country": "السنغال",
+    "confederation": "CAF"
+  },
+  {
+    "id": 399,
+    "name": "المنتخب الموريتاني",
+    "name_en": "Mauritania",
+    "founded": 1961,
+    "logo": "",
+    "country": "موريتانيا",
+    "confederation": "CAF"
+  },
+  {
+    "id": 400,
+    "name": "المنتخب المالي",
+    "name_en": "Mali",
+    "founded": 1960,
+    "logo": "",
+    "country": "مالي",
+    "confederation": "CAF"
+  },
+  {
+    "id": 401,
+    "name": "المنتخب الأمريكي",
+    "name_en": "United States",
+    "founded": 1913,
+    "logo": "",
+    "country": "الولايات المتحدة",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 402,
+    "name": "المنتخب المكسيكي",
+    "name_en": "Mexico",
+    "founded": 1927,
+    "logo": "",
+    "country": "المكسيك",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 403,
+    "name": "المنتخب الكندي",
+    "name_en": "Canada",
+    "founded": 1885,
+    "logo": "",
+    "country": "كندا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 404,
+    "name": "المنتخب الكوستاريكي",
+    "name_en": "Costa Rica",
+    "founded": 1921,
+    "logo": "",
+    "country": "كوستاريكا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 405,
+    "name": "المنتخب البنمي",
+    "name_en": "Panama",
+    "founded": 1937,
+    "logo": "",
+    "country": "بنما",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 406,
+    "name": "المنتخب الهندوراسي",
+    "name_en": "Honduras",
+    "founded": 1951,
+    "logo": "",
+    "country": "هندوراس",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 407,
+    "name": "المنتخب الجامايكي",
+    "name_en": "Jamaica",
+    "founded": 1910,
+    "logo": "",
+    "country": "جامايكا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 408,
+    "name": "المنتخب الهايتي",
+    "name_en": "Haiti",
+    "founded": 1904,
+    "logo": "",
+    "country": "هايتي",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 409,
+    "name": "المنتخب الكوبي",
+    "name_en": "Cuba",
+    "founded": 1924,
+    "logo": "",
+    "country": "كوبا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 410,
+    "name": "المنتخب الدومينيكاني",
+    "name_en": "Dominican Republic",
+    "founded": 1953,
+    "logo": "",
+    "country": "جمهورية الدومينيكان",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 411,
+    "name": "المنتخب الترينيدادي",
+    "name_en": "Trinidad and Tobago",
+    "founded": 1908,
+    "logo": "",
+    "country": "ترينيداد وتوباغو",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 412,
+    "name": "المنتخب السلفادوري",
+    "name_en": "El Salvador",
+    "founded": 1935,
+    "logo": "",
+    "country": "السلفادور",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 413,
+    "name": "المنتخب الغواتيمالي",
+    "name_en": "Guatemala",
+    "founded": 1919,
+    "logo": "",
+    "country": "غواتيمالا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 414,
+    "name": "المنتخب النيكاراغوي",
+    "name_en": "Nicaragua",
+    "founded": 1931,
+    "logo": "",
+    "country": "نيكاراغوا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 415,
+    "name": "المنتخب البليزي",
+    "name_en": "Belize",
+    "founded": 1980,
+    "logo": "",
+    "country": "بليز",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 416,
+    "name": "المنتخب الباربادوسي",
+    "name_en": "Barbados",
+    "founded": 1910,
+    "logo": "",
+    "country": "باربادوس",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 417,
+    "name": "المنتخب الأنتيغي",
+    "name_en": "Antigua and Barbuda",
+    "founded": 1928,
+    "logo": "",
+    "country": "أنتيغوا وباربودا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 418,
+    "name": "المنتخب الغرينادي",
+    "name_en": "Grenada",
+    "founded": 1924,
+    "logo": "",
+    "country": "غرينادا",
+    "confederation": "CONCACAF"
+  },
+  {
+    "id": 419,
+    "name": "المنتخب الأسترالي",
+    "name_en": "Australia",
+    "founded": 1961,
+    "logo": "",
+    "country": "أستراليا",
+    "confederation": "AFC"
+  },
+  {
+    "id": 420,
+    "name": "المنتخب الياباني",
+    "name_en": "Japan",
+    "founded": 1921,
+    "logo": "",
+    "country": "اليابان",
+    "confederation": "AFC"
+  },
+  {
+    "id": 421,
+    "name": "المنتخب الكوري الجنوبي",
+    "name_en": "South Korea",
+    "founded": 1928,
+    "logo": "",
+    "country": "كوريا الجنوبية",
+    "confederation": "AFC"
+  },
+  {
+    "id": 422,
+    "name": "المنتخب الإيراني",
+    "name_en": "Iran",
+    "founded": 1920,
+    "logo": "",
+    "country": "إيران",
+    "confederation": "AFC"
+  },
+  {
+    "id": 423,
+    "name": "المنتخب السعودي",
+    "name_en": "Saudi Arabia",
+    "founded": 1956,
+    "logo": "",
+    "country": "السعودية",
+    "confederation": "AFC"
+  },
+  {
+    "id": 424,
+    "name": "المنتخب القầطري",
+    "name_en": "Qatar",
+    "founded": 1960,
+    "logo": "",
+    "country": "قطر",
+    "confederation": "AFC"
+  },
+  {
+    "id": 425,
+    "name": "المنتخب الإماراتي",
+    "name_en": "United Arab Emirates",
+    "founded": 1971,
+    "logo": "",
+    "country": "الإمارات العربية المتحدة",
+    "confederation": "AFC"
+  },
+  {
+    "id": 426,
+    "name": "المنتخب العراقي",
+    "name_en": "Iraq",
+    "founded": 1948,
+    "logo": "",
+    "country": "العراق",
+    "confederation": "AFC"
+  },
+  {
+    "id": 427,
+    "name": "المنتخب الأردني",
+    "name_en": "Jordan",
+    "founded": 1949,
+    "logo": "",
+    "country": "الأردن",
+    "confederation": "AFC"
+  },
+  {
+    "id": 428,
+    "name": "المنتخب العماني",
+    "name_en": "Oman",
+    "founded": 1978,
+    "logo": "",
+    "country": "عُمان",
+    "confederation": "AFC"
+  },
+  {
+    "id": 429,
+    "name": "المنتخب البحريني",
+    "name_en": "Bahrain",
+    "founded": 1957,
+    "logo": "",
+    "country": "البحرين",
+    "confederation": "AFC"
+  },
+  {
+    "id": 430,
+    "name": "المنتخب الكويتي",
+    "name_en": "Kuwait",
+    "founded": 1952,
+    "logo": "",
+    "country": "الكويت",
+    "confederation": "AFC"
+  },
+  {
+    "id": 431,
+    "name": "المنتخب اللبناني",
+    "name_en": "Lebanon",
+    "founded": 1933,
+    "logo": "",
+    "country": "لبنان",
+    "confederation": "AFC"
+  },
+  {
+    "id": 432,
+    "name": "المنتخب السوري",
+    "name_en": "Syria",
+    "founded": 1936,
+    "logo": "",
+    "country": "سوريا",
+    "confederation": "AFC"
+  },
+  {
+    "id": 433,
+    "name": "المنتخب الفلسطيني",
+    "name_en": "Palestine",
+    "founded": 1998,
+    "logo": "",
+    "country": "فلسطين",
+    "confederation": "AFC"
+  },
+  {
+    "id": 434,
+    "name": "المنتخب اليمني",
+    "name_en": "Yemen",
+    "founded": 1962,
+    "logo": "",
+    "country": "اليمن",
+    "confederation": "AFC"
+  },
+  {
+    "id": 435,
+    "name": "المنتخب الأفغاني",
+    "name_en": "Afghanistan",
+    "founded": 1933,
+    "logo": "",
+    "country": "أفغانستان",
+    "confederation": "AFC"
+  },
+  {
+    "id": 436,
+    "name": "المنتخب الباكستاني",
+    "name_en": "Pakistan",
+    "founded": 1947,
+    "logo": "",
+    "country": "باكستان",
+    "confederation": "AFC"
+  },
+  {
+    "id": 437,
+    "name": "المنتخب الهندي",
+    "name_en": "India",
+    "founded": 1937,
+    "logo": "",
+    "country": "الهند",
+    "confederation": "AFC"
+  },
+  {
+    "id": 438,
+    "name": "المنتخب البنغلاديشي",
+    "name_en": "Bangladesh",
+    "founded": 1972,
+    "logo": "",
+    "country": "بنغلاديش",
+    "confederation": "AFC"
+  },
+  {
+    "id": 439,
+    "name": "المنتخب الصيني",
+    "name_en": "China PR",
+    "founded": 1924,
+    "logo": "",
+    "country": "الصين",
+    "confederation": "AFC"
+  },
+  {
+    "id": 440,
+    "name": "المنتخب التايلندي",
+    "name_en": "Thailand",
+    "founded": 1916,
+    "logo": "",
+    "country": "تايلاند",
+    "confederation": "AFC"
+  },
+  {
+    "id": 441,
+    "name": "المنتخب الفيتنامي",
+    "name_en": "Vietnam",
+    "founded": 1962,
+    "logo": "",
+    "country": "فيتنام",
+    "confederation": "AFC"
+  },
+  {
+    "id": 442,
+    "name": "المنتخب الإندونيسي",
+    "name_en": "Indonesia",
+    "founded": 1930,
+    "logo": "",
+    "country": "إندونيسيا",
+    "confederation": "AFC"
+  },
+  {
+    "id": 443,
+    "name": "المنتخب الماليزي",
+    "name_en": "Malaysia",
+    "founded": 1933,
+    "logo": "",
+    "country": "ماليزيا",
+    "confederation": "AFC"
+  },
+  {
+    "id": 444,
+    "name": "المنتخب السنغافوري",
+    "name_en": "Singapore",
+    "founded": 1892,
+    "logo": "",
+    "country": "سنغافورة",
+    "confederation": "AFC"
+  },
+  {
+    "id": 445,
+    "name": "المنتخب الميانماري",
+    "name_en": "Myanmar",
+    "founded": 1947,
+    "logo": "",
+    "country": "ميانمار",
+    "confederation": "AFC"
+  },
+  {
+    "id": 446,
+    "name": "المنتخب النيبالي",
+    "name_en": "Nepal",
+    "founded": 1951,
+    "logo": "",
+    "country": "نيبال",
+    "confederation": "AFC"
+  },
+  {
+    "id": 447,
+    "name": "المنتخب السريلانكي",
+    "name_en": "Sri Lanka",
+    "founded": 1939,
+    "logo": "",
+    "country": "سريلانكا",
+    "confederation": "AFC"
+  },
+  {
+    "id": 448,
+    "name": "المنتخب المالديفي",
+    "name_en": "Maldives",
+    "founded": 1982,
+    "logo": "",
+    "country": "المالديف",
+    "confederation": "AFC"
+  },
+  {
+    "id": 449,
+    "name": "المنتخب النيوزيلندي",
+    "name_en": "New Zealand",
+    "founded": 1891,
+    "logo": "",
+    "country": "نيوزيلندا",
+    "confederation": "OFC"
+  },
+  {
+    "id": 450,
+    "name": "المنتخب الفيجي",
+    "name_en": "Fiji",
+    "founded": 1938,
+    "logo": "",
+    "country": "فيجي",
+    "confederation": "OFC"
+  },
+  {
+    "id": 451,
+    "name": "المنتخب الكاليدوني الجديد",
+    "name_en": "New Caledonia",
+    "founded": 1928,
+    "logo": "",
+    "country": "كاليدونيا الجديدة",
+    "confederation": "OFC"
+  },
+  {
+    "id": 452,
+    "name": "المنتخب التاهيتي",
+    "name_en": "Tahiti",
+    "founded": 1938,
+    "logo": "",
+    "country": "تاهيتي",
+    "confederation": "OFC"
+  },
+  {
+    "id": 453,
+    "name": "المنتخب البابوا غيني",
+    "name_en": "Papua New Guinea",
+    "founded": 1962,
+    "logo": "",
+    "country": "بابوا غينيا الجديدة",
+    "confederation": "OFC"
+  },
+  {
+    "id": 454,
+    "name": "المنتخب الجزر السليماني",
+    "name_en": "Solomon Islands",
+    "founded": 1963,
+    "logo": "",
+    "country": "جزر سليمان",
+    "confederation": "OFC"
+  },
+  {
+    "id": 455,
+    "name": "المنتخب الفانواتي",
+    "name_en": "Vanuatu",
+    "founded": 1934,
+    "logo": "",
+    "country": "فانواتو",
+    "confederation": "OFC"
+  },
+  {
+    "id": 456,
+    "name": "المنتخب الساموي",
+    "name_en": "Samoa",
+    "founded": 1968,
+    "logo": "",
+    "country": "ساموا",
+    "confederation": "OFC"
   }
 ]
+  
