@@ -241,21 +241,21 @@
     "id": 35,
     "name": "ريال مايوركا",
     "name_en": "Mallorca",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5f/RCD_Mallorca_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/e/e4/RCD_Mallorca.svg/250px-RCD_Mallorca.svg.png",
     "country": "إسبانيا"
   },
   {
     "id": 36,
     "name": "لاس بالماس",
     "name_en": "Las Palmas",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8d/UD_Las_Palmas_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c2/UD_Las_Palmas.svg/960px-UD_Las_Palmas.svg.png",
     "country": "إسبانيا"
   },
   {
     "id": 37,
     "name": "ديبورتيفو ألافيس",
     "name_en": "Alaves",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Deportivo_Alav%C3%A9s_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/6/6e/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88_%D8%A3%D9%84%D8%A7%D9%81%D9%8A%D8%B3_%282020%29.svg/3840px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88_%D8%A3%D9%84%D8%A7%D9%81%D9%8A%D8%B3_%282020%29.svg.png",
     "country": "إسبانيا"
   },
   {
@@ -269,21 +269,21 @@
     "id": 39,
     "name": "غرناطة",
     "name_en": "Granada",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d6/Granada_CF_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/7/77/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%BA%D8%B1%D9%86%D8%A7%D8%B7%D8%A9.svg/960px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%BA%D8%B1%D9%86%D8%A7%D8%B7%D8%A9.svg.png",
     "country": "إسبانيا"
   },
   {
     "id": 40,
     "name": "ألميريا",
     "name_en": "Almeria",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/UD_Almeria_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/f/f2/UD_Almer%C3%ADa.svg/960px-UD_Almer%C3%ADa.svg.png",
     "country": "إسبانيا"
     },
   {
     "id": 41,
     "name": "بايرن ميونخ",
     "name_en": "Bayern Munich",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282024%29.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
     "country": "ألمانيا"
   },
   {
@@ -339,21 +339,21 @@
     "id": 49,
     "name": "هوفنهايم",
     "name_en": "Hoffenheim",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/TSG_1899_Hoffenheim_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_TSG_Hoffenheim.svg",
     "country": "ألمانيا"
   },
   {
     "id": 50,
     "name": "فرايبورغ",
     "name_en": "SC Freiburg",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/SC_Freiburg_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/6/6d/SC_Freiburg_logo.svg",
     "country": "ألمانيا"
   },
   {
     "id": 51,
     "name": "يونيون برلين",
     "name_en": "Union Berlin",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/1._FC_Union_Berlin_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/c/ca/1FC_Union_Berlin.svg",
     "country": "ألمانيا"
   },
   {
@@ -367,42 +367,42 @@
     "id": 53,
     "name": "ماينز 05",
     "name_en": "Mainz 05",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/7/75/1._FSV_Mainz_05_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/FSV_Mainz_05_Logo.png/250px-FSV_Mainz_05_Logo.png",
     "country": "ألمانيا"
   },
   {
     "id": 54,
     "name": "أوغسبورغ",
     "name_en": "Augsburg",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/FC_Augsburg_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/9/9a/FC_Augsburg.svg/960px-FC_Augsburg.svg.png",
     "country": "ألمانيا"
   },
   {
     "id": 55,
     "name": "هايدنهايم",
     "name_en": "Heidenheim",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2f/1._FC_Heidenheim_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/1._FC_Heidenheim_1846.svg",
     "country": "ألمانيا"
   },
   {
     "id": 56,
     "name": "بوخوم",
     "name_en": "Bochum",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/VfL_Bochum_1848_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1280px-VfL_Bochum_logo.svg.png",
     "country": "ألمانيا"
   },
   {
     "id": 57,
     "name": "كولن",
     "name_en": "FC Cologne",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/FC_Cologne_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg",
     "country": "ألمانيا"
   },
   {
     "id": 58,
     "name": "دارمشتات 98",
     "name_en": "Darmstadt 98",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/SV_Darmstadt_98_logo.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/9/92/SV_Darmstadt_98_logo.svg",
     "country": "ألمانيا"
  },
   {
