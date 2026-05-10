@@ -896,7 +896,7 @@
     "name": "الوداد البيضاوي",
     "name_en": "Wydad AC",
     "founded": 1937,
-    "logo": "https://upload.wikimedia.org/wikipedia/de/7/7e/Wydad_Casablanca.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/5/58/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A_%282022%29.svg/960px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A_%282022%29.svg.png",
     "country": "المغرب"
   },
   {
@@ -904,7 +904,7 @@
     "name": "الرجاء البيضاوي",
     "name_en": "Raja CA",
     "founded": 1949,
-    "logo": "https://upload.wikimedia.org/wikipedia/de/3/31/Raja_Casablanca.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/3/32/Raja_CA.svg/250px-Raja_CA.svg.png",
     "country": "المغرب"
   },
   {
@@ -912,7 +912,7 @@
     "name": "الجيش الملكي",
     "name_en": "AS FAR",
     "founded": 1958,
-    "logo": "https://upload.wikimedia.org/wikipedia/de/b/b1/FAR_Rabat.svg",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/9/95/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A.png",
     "country": "المغرب"
   },
   {
@@ -920,7 +920,7 @@
     "name": "نهضة بركان",
     "name_en": "RS Berkane",
     "founded": 1938,
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/e/e7/RSBerkane.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c7/RS_Berkane.svg/1280px-RS_Berkane.svg.png",
     "country": "المغرب"
   },
   {
@@ -928,7 +928,7 @@
     "name": "المغرب الفاسي",
     "name_en": "MAS Fès",
     "founded": 1946,
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/a/a6/Maghreb_AS.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/21/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D9%8A.png/250px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D9%8A.png",
     "country": "المغرب"
   },
   {
@@ -936,7 +936,7 @@
     "name": "الفتح الرباطي",
     "name_en": "FUS Rabat",
     "founded": 1946,
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/b/bc/FUS_Rabat.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/e/eb/Fus-Rabat-new.png/250px-Fus-Rabat-new.png",
     "country": "المغرب"
   },
   {
@@ -944,7 +944,7 @@
     "name": "حسنية أكادير",
     "name_en": "Hassania Agadir",
     "founded": 1946,
-    "logo": "https://upload.wikimedia.org/wikipedia/de/2/2f/Hassania_Agadir.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Husa_logo_2013.png",
     "country": "المغرب"
   },
   {
@@ -952,7 +952,7 @@
     "name": "اتحاد طنجة",
     "name_en": "IR Tanger",
     "founded": 1953,
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/6/62/Ittihad_Riadi_Tanger.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/7/72/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%B7%D9%86%D8%AC%D8%A9.png",
     "country": "المغرب"
   },
   {
@@ -960,7 +960,7 @@
     "name": "المولودية الوجدية",
     "name_en": "MC Oujda",
     "founded": 1946,
-    "logo": "https://upload.wikimedia.org/wikipedia/ar/5/5e/Mouloudia_Oujda.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MOULOUDIA_OUJDA_LOGO.png/250px-MOULOUDIA_OUJDA_LOGO.png",
     "country": "المغرب"
   },
   {
@@ -968,7 +968,7 @@
     "name": "أولمبيك آسفي",
     "name_en": "Olympic Safi",
     "founded": 1921,
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/3/39/OC_Safi.svg",
     "country": "المغرب"
   },
   {
@@ -976,7 +976,7 @@
     "name": "شباب المحمدية",
     "name_en": "SCC Mohammédia",
     "founded": 1948,
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/b/b6/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%B4%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9.png",
     "country": "المغرب"
   },
   {
@@ -984,7 +984,7 @@
     "name": "اتحاد يعقوب المنصور",
     "name_en": "US Yacoub El Mansour",
     "founded": 2010,
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/1/16/Union_sportive_Yacoub_El_Mansour_Logo.png",
     "country": "المغرب"
   },
   {
@@ -992,7 +992,7 @@
     "name": "الكوكب المراكشي",
     "name_en": "KAC Marrakech",
     "founded": 1947,
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/9/9e/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A8_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B4%D9%8A.png",
     "country": "المغرب"
   },
   {
@@ -1000,7 +1000,7 @@
     "name": "أولمبيك الدشيرة",
     "name_en": "Olympique Dcheira",
     "founded": 1987,
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/0/0b/Olympique_Dcheira_Logo.png",
     "country": "المغرب"
   },
   {
@@ -1008,7 +1008,7 @@
     "name": "دفاع الجديدي",
     "name_en": "Difaa El Jadida",
     "founded": 1956,
-    "logo": "https://upload.wikimedia.org/wikipedia/de/9/95/DifaaElJadida.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/4/46/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9_%D8%A7%D9%84%D8%AD%D8%B3%D9%86%D9%8A_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D9%8A.png",
     "country": "المغرب"
   },
   {
@@ -1016,7 +1016,7 @@
     "name": "نهضة الزمامرة",
     "name_en": "RCA Zemamra",
     "founded": 1977,
-    "logo": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/ar/d/df/Renaissance_Club_Athletic_Zemamra_Logo.png",
     "country": "المغرب"
   },
   {
